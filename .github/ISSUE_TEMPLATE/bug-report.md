@@ -2,7 +2,7 @@
 name: Bug Report
 about: When a feature is not behaving as expected.
 title: ''
-labels: bug
+labels: bug, enhancement
 assignees: shiftyscales
 
 ---
