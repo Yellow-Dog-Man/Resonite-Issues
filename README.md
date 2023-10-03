@@ -1,7 +1,7 @@
-# Resonite
+# Resonite Issues
 Issue repository for Resonite. Please log any bug reports, or feature requests here using the appropriate template.
 
-# Secutity
+# Security
 To report a exploit, or vulnerability in Resonite **DO NOT POST HERE**, please open a ticket at https://support.resonite.com/ with the "Support - Report a Security Issue" template.
 
 # Best practices for bug reporting
