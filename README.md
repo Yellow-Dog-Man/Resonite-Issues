@@ -5,7 +5,7 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 To report a exploit, or vulnerability in Resonite please review, and follow our [security policy](https://github.com/Yellow-Dog-Man/Resonite-Issues/security/policy) and submit it through our [support system](https://support.resonite.com/).
 
 # Best practices for bug reporting
-**Pleasure ensure the following requirements are met** for any bug reports submitted to this repository:
+**Please ensure the following requirements are met** for any bug reports submitted to this repository:
 - **Use the most recent version of Resonite** when replicating your issues (this helps ensure that issues are still relevant and replicable)
 - **Try to search for existing issues** describing your problem before creating a new one (if an issue already exists for what you wish to report, please add to the existing issue instead)
 - **Provide a link** (public folder or world) to content that replicates the issue (ensure replication worlds have their metadata set to allow access from anyone)
