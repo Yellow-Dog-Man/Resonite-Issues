@@ -2,7 +2,7 @@
 Issue repository for Resonite. Please log any bug reports, or feature requests here using the appropriate template.
 
 # Security
-To report a exploit, or vulnerability in Resonite **DO NOT POST HERE**, please open a ticket at https://support.resonite.com/ with the "Support - Report a Security Issue" template.
+To report a exploit, or vulnerability in Resonite please review, and follow our [security policy](https://github.com/Yellow-Dog-Man/Resonite-Issues/security/policy) and submit it through our [support system](https://support.resonite.com/).
 
 # Best practices for bug reporting
 **Pleasure ensure the following requirements are met** for any bug reports submitted to this repository:
