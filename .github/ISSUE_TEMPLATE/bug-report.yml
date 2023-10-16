@@ -59,6 +59,8 @@ body:
     attributes:
       label: Log Files
       description: Please provide a clean log file from replicating this issue.(**DO NOT USE MODS**. Start the client, replicate the issue and exit immediately.)
+    validations:
+      required: true
   - type: textarea
     id: additional-context
     attributes:
