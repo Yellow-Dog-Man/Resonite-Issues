@@ -1,4 +1,3 @@
 # Security Policy
-## Reporting a Vulnerability
 
-To report a exploit, or vulnerability in Resonite **DO NOT POST HERE**, please open a ticket at https://support.resonite.com/ with the "Support - Report a Security Issue" template.
+Our security policy can be found on [our website](https://resonite.com/policies/Security.html).
