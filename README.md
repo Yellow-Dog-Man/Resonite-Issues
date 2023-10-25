@@ -13,6 +13,7 @@ To report a exploit, or vulnerability in Resonite please review, and follow our 
 - **Provide a clean log file** from replicating the issue (**DO NOT USE MODS OR PLUGINS**, launch the client, load the replication item/world, replicate the issue, and exit)
 - **Report which version** of the app the problem was first observed on, as well as other relevant information (your OS, hardware, etc. as specified in the issue template)
 - **Use objective, and respectful language** for any posts/comments submitted (negativity, hateful/angry issues/comments are liable to be edited or removed)
+- **Do not refer to projects we worked on in the past** we're unable to use materials or issues from past projects.
 
 **FAILURE TO MEET THE ABOVE REQUIREMENTS WILL LIKELY RESULT IN THE ISSUE GOING UNADDRESSED/BEING CLOSED IF SUFFICIENT INFORMATION IS NOT PROVIDED IN A REASONABLE TIMEFRAME**
 
