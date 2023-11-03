@@ -1,5 +1,5 @@
 name: Content Issue
-description: For issues with official content/experiences (tutorial/home worlds, default facets, interfaces (video/audio player), etc.
+description: For issues with tutorial/home worlds, default facets, video and audio players. Not for bugs or features.
 labels: [content]
 assignees: shiftyscales, AegisTheWolf, RyuviTheViali
 body:
