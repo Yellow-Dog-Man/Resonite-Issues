@@ -128,7 +128,7 @@ These numbers are just demonstrative and will vary in practice, but hopefully th
 By being careful with how we order things, we can save a lot of development time, which can then be used to address additional issues. Because of this, we might not prioritize and start working on certain issues right away, even if there’s a popular demand, but instead chart a roadmap to maximize what we get out of our limited development time.
 
 ## Votes & activity
-When evaluating issues, either for triage or for prioritization, one of the factors we do look at is how many upvotes the issue has (you can learn how to upvote at the end of the document). This lets us know which issues affect more people than others or at least which ones are more popular.
+When evaluating issues, either for triage or for prioritization, one of the factors we do look at is how many upvotes the issue has ([learn how to upvote issues here](HOW_TO_UPVOTE.md)). This lets us know which issues affect more people than others or at least which ones are more popular.
 
 Users chiming in with more context, information, replication information for the same issue also helps, as we see there’s more interest / activity and the additional information can help reduce the workload on our end to ensure the issue goes through.
 
@@ -156,7 +156,7 @@ Generally going “bump” in the issue does not help to prioritize it, because 
 
 Similarly stating that issue still exists on latest build does not help - if we haven’t released a build and stated that the issue should be addressed, it’s not necessary to write a message it’s still an issue on the latest build, as this doesn’t really give us any new information - we haven’t worked on the issue yet.
 
-Instead, if you want to help prioritize the issue, upvote the issue instead (see the bottom of this document on how). Writing a comment that provides more context on its impact, what workflows, actions, events it blocks or that helps narrow down the problem will also help improve the chances it gets addressed.
+Instead, if you want to help prioritize the issue, upvote the issue instead ([see this page if you don't know how](HOW_TO_UPVOTE.md)). Writing a comment that provides more context on its impact, what workflows, actions, events it blocks or that helps narrow down the problem will also help improve the chances it gets addressed.
 
 ## Polite and neutral language
 It’s important to remember that we are humans as well and that the pressures of development can be very stressful and emotionally draining.
