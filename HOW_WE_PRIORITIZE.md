@@ -4,6 +4,9 @@ When we look at the issues submitted by the community, there’s a variety of fa
 
 Whether a particular issue gets picked up or not is a complex combination of these factors. We want to help you understand what those individual factors are, so you can write your issues and interact with the existing issues in a way to maximize the chance that an issue will get picked up and worked on.
 
+## Discussion
+If you'd like to discuss this document, you can do so here: https://github.com/Yellow-Dog-Man/Resonite-Issues/discussions/784
+
 # Signals that we use to prioritize issues
 
 Here follows a quick summary of the different signals and factors that are used when prioritizing issues. We recommend reading the sections below that expand on each and provide some examples to better understand them.
