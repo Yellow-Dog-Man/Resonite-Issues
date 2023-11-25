@@ -21,4 +21,7 @@ To report a exploit, or vulnerability in Resonite please review, and follow our 
 
 **FAILURE TO MEET THE ABOVE REQUIREMENTS WILL LIKELY RESULT IN THE ISSUE GOING UNADDRESSED/BEING CLOSED IF SUFFICIENT INFORMATION IS NOT PROVIDED IN A REASONABLE TIMEFRAME**
 
+# How we prioritize issues
+We use a number of factors when prioritizing issues. If you'd like to learn more and help increase the likelihood that your issue gets addressed, [read our HOW_WE_PRIORITIZE document here](HOW_WE_PRIORITIZE.md).
+
 **Thank you for your reports, and feedback.**
