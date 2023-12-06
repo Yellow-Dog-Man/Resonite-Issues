@@ -63,8 +63,16 @@ For particularly impactful ones - for example ones that allow remote code execut
 
 In some cases, if the given vulnerability is more theoretical and it’s not clear if it can be exploited at all or if the result of exploit is more of an inconvenience, rather than security threatening scenario, they can be prioritized lower - e.g. as a part of larger rework or refactoring to address a number of issues.
 
+### Stability
+Another big factor that leads to issues being prioritized is stability. If a particular issue threatens or causes instability, especially for our infrastructure, it will likely get prioritized over other things, depending on the severity. 
+
+Sometimes stability issues can pop out of nowhere for variety reasons. For example when a type of data is introduced into the system that triggers a bug that hasn't been encountered before, it will need to be dealth with.
+
 ### Legal / Business
 As a company, we need to comply with a number of laws, regulations and agreements/contracts with other companies. Some features might get prioritized at times to ensure the smooth operation of the company and avoid legal issues.
+
+### Cost
+We continuously monitor our infrastructure and investigate bottlenecks and inefficiencies, which can result in an increased costs. If we identify an areas where we could redesign part of the system, we will prioritize features, tweaks and bugfixes to lower our operating costs. This is important long term, to ensure stability of the company, ensure our ability to pay our staff and keep the lights on.
 
 ### Blockers
 Certain issues can be significant blockers to parts of our community or our team. For example some users, both casual and commercial, might have their workflows blocked by a particular issue. Depending on the severity of the impact, we might prioritize issues based on this factor.
