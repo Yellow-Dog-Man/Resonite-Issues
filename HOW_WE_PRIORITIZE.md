@@ -13,7 +13,7 @@ Here follows a quick summary of the different signals and factors that are used 
 
 - **Descriptive title** - precise title that describes core of the issue helps issue get prioritized, vague or misleading titles hurt its changes to get picked up
 - **Quality and clarity** - use precise language and to the point to increase chance of issue to get picked up, make sure to provide all necessary information
-- **Impact on software, community and team** - security issues generally get higher priority. Similarly issues affecting legal, business, development, content, moderation or accessibility can be prioritized over others
+- **Impact on software, community and team** - security issues generally get higher priority. Similarly issues affecting stability (especially infrastructure), legal, business, operating costs, development, content, moderation or accessibility can be prioritized over others
 - **Recency & regressions** - issues relating to recent changes and additions will get higher priority
 - **Complexity of the work** - simple issues are more likely to be picked up and worked through, while issues requiring more work get weighed and selected more heavily
 - **Maintenance & refactoring burden** - even if the issue needs a simple change, its priority can be lowered if the change would increase technical debt and cause more issues or work in the future
