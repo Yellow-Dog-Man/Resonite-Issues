@@ -17,6 +17,7 @@ To report a exploit, or vulnerability in Resonite please review, and follow our 
 - **Use objective, and respectful language** for any posts/comments submitted (negativity, hateful/angry issues/comments are liable to be edited or removed)
 - **Use short, but descriptive tittle** as vague titles (e.g. "Issue with system" instead of "System breaks when I grab thing") are much more likely to get overlooked and skimmed over
 - **Be specific** when possible, becaues vague statements can be hard to interpret. For example instead of "It took a long time to finish", say "It took about 30 minutes to finish". "Long" can mean different amounts in different contexts - for some things a minute is long time, for others an hour is short
+- **Provide accurate updates** if something changes with the issue, which makes the original sample or reproduction steps work, but issue still persists with other cases, make sure to include the information with your updates
 - **Do not refer to projects we worked on in the past** we're unable to use materials or issues from past projects.
 
 **FAILURE TO MEET THE ABOVE REQUIREMENTS WILL LIKELY RESULT IN THE ISSUE GOING UNADDRESSED/BEING CLOSED IF SUFFICIENT INFORMATION IS NOT PROVIDED IN A REASONABLE TIMEFRAME**
