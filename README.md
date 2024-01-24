@@ -12,8 +12,8 @@ To report a exploit, or vulnerability in Resonite please review, and follow our 
 - **Do not hijack issues for another feature/bug**, make another issue instead. Issues should never have comments of type "While you're at it, can you also do this?", it will not be considered and will get lost when the original problem in the issue gets solved
 - **Provide a link** (public folder or world) to content that replicates the issue (ensure replication worlds have their metadata set to allow access from anyone)
 - **Try to troubleshoot** and isolate the problem first before reporting it (e.g. if it is a complex ProtoFlux creation try to identify the specific node/node group that is not behaving as expected- strip down as much as possible from the item/world while still producing the bug)
-- **Ensure that the issue happens WIHOUT MODS OR PLUGINS** - sometimes mods or plugins can be source of the issues, so before you submit, make sure it occurs without them
-- **Provide a clean log file** from replicating the issue (**DO NOT USE MODS OR PLUGINS** except for diagnostic (see below), launch the client, load the replication item/world, replicate the issue, and exit)
+- **Ensure that the issue happens WITHOUT MODS OR PLUGINS** - sometimes mods or plugins can be source of the issues, so before you submit, make sure it occurs without them
+- **Provide a clean log file** from replicating the issue (do not use mods or plugins except for diagnostic ones (see below), launch the client, load the replication item/world, replicate the issue, and exit)
 - **Report which version** of the app the problem was first observed on, as well as other relevant information (your OS, hardware, etc. as specified in the issue template)
 - **Use objective, and respectful language** for any posts/comments submitted (negativity, hateful/angry issues/comments are liable to be edited or removed)
 - **Use short, but descriptive tittle** as vague titles (e.g. "Issue with system" instead of "System breaks when I grab thing") are much more likely to get overlooked and skimmed over
@@ -32,7 +32,7 @@ We will accept additional diagnostic data produced by mods specifically made to 
 
 If you want to create and use such mod/plugin for report, please ensure the following:
 - The issue must still occur without any mods present - in other words, ensure that the issue is problem with vanilla client
-- Please provide the diagnostic data in the issue itself - we might not run (in fact, in a lot of cases we won't) the mod ourselves
+- Please provide the diagnostic data in the issue itself - we will typically not run third party mods or plugins ourselves
 - Providing the source of the mod can be helpful as well to provide more context, even when we don't run it
 
 **Thank you for your reports, and feedback.**
