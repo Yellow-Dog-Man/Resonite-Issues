@@ -32,7 +32,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: reporters
+    id: requesters
     attributes:
-      label: Reporters
-      description: Usernames / Discord handles of anyone (including yourself) who has reported/replicated this bug (will be used to credit in release notes).
+      label: Requesters
+      description: Usernames / Discord handles of anyone (including yourself) who has requested this feature (will be used to credit in release notes).
