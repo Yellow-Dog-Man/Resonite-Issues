@@ -31,3 +31,8 @@ body:
       description: Add any other context about the problem here.
     validations:
       required: false
+  - type: textarea
+    id: reporters
+    attributes:
+      label: Reporters
+      description: Usernames / Discord handles of anyone (including yourself) who has reported/replicated this bug (will be used to credit in release notes).
