@@ -1,7 +1,7 @@
 name: Content Issue
 description: For issues with tutorial/home worlds, default facets, video and audio players. Not for bugs or features.
 labels: [content]
-assignees: shiftyscales, AegisTheWolf, RyuviTheViali
+assignees: shiftyscales, AegisTheWolf, RyuviTheViali, RueShejn
 body:
   - type: textarea
     id: Describe
