@@ -58,7 +58,7 @@ body:
     id: log-files
     attributes:
       label: Log Files
-      description: Please provide a clean log file from replicating this issue.(**DO NOT USE MODS**. Start the client, replicate the issue and exit immediately.)
+      description: Please provide a clean log file from replicating this issue.(**DO NOT USE MODS**. Start the client, replicate the issue and exit immediately.) Information on the different kinds of log files and where to find them can be found on our [wiki](https://wiki.resonite.com/Log_Files).
     validations:
       required: true
   - type: textarea
