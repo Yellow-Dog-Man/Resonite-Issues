@@ -35,7 +35,7 @@ body:
     id: version
     attributes:
       label: Resonite Version Number
-      placeholder: 1.2.3?
+      placeholder: 1.2.3? (USE ACTUAL VERSION NUMBER, DO NOT TYPE THINGS LIKE "latest")
     validations:
       required: true
   - type: dropdown
