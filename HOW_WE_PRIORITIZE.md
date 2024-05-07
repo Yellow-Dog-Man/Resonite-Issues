@@ -11,7 +11,7 @@ If you'd like to discuss this document, you can do so here: https://github.com/Y
 
 Here follows a quick summary of the different signals and factors that are used when prioritizing issues. We recommend reading the sections below that expand on each and provide some examples to better understand them.
 
-- **Descriptive title** - precise title that describes core of the issue helps issue get prioritized, vague or misleading titles hurt its changes to get picked up
+- **Descriptive title** - precise title that describes core of the issue helps issue get prioritized, vague or misleading titles hurt its chances to get picked up
 - **Quality and clarity** - use precise language and to the point to increase chance of issue to get picked up, make sure to provide all necessary information
 - **Impact on software, community and team** - security issues generally get higher priority. Similarly issues affecting stability (especially infrastructure), legal, business, operating costs, development, content, moderation or accessibility can be prioritized over others
 - **Recency & regressions** - issues relating to recent changes and additions will get higher priority
@@ -66,13 +66,13 @@ In some cases, if the given vulnerability is more theoretical and it’s not cle
 ### Stability
 Another big factor that leads to issues being prioritized is stability. If a particular issue threatens or causes instability, especially for our infrastructure, it will likely get prioritized over other things, depending on the severity. 
 
-Sometimes stability issues can pop out of nowhere for variety reasons. For example when a type of data is introduced into the system that triggers a bug that hasn't been encountered before, it will need to be dealth with.
+Sometimes stability issues can pop out of nowhere for variety reasons. For example when a type of data is introduced into the system that triggers a bug that hasn't been encountered before, it will need to be dealt with.
 
 ### Legal / Business
 As a company, we need to comply with a number of laws, regulations and agreements/contracts with other companies. Some features might get prioritized at times to ensure the smooth operation of the company and avoid legal issues.
 
 ### Cost
-We continuously monitor our infrastructure and investigate bottlenecks and inefficiencies, which can result in an increased costs. If we identify an areas where we could redesign part of the system, we will prioritize features, tweaks and bugfixes to lower our operating costs. This is important long term, to ensure stability of the company, ensure our ability to pay our staff and keep the lights on.
+We continuously monitor our infrastructure and investigate bottlenecks and inefficiencies, which can result in an increased costs. If we identify an area where we could redesign part of the system, we will prioritize features, tweaks and bugfixes to lower our operating costs. This is important long term, to ensure stability of the company, ensure our ability to pay our staff and keep the lights on.
 
 ### Blockers
 Certain issues can be significant blockers to parts of our community or our team. For example some users, both casual and commercial, might have their workflows blocked by a particular issue. Depending on the severity of the impact, we might prioritize issues based on this factor.
@@ -100,7 +100,7 @@ However even for issues that might be a small amount of work, we still consider 
 
 Some issues might also seem small at first, but when we dig into them deeper, they end up being more complex than we estimated, which can shake up its priority. Because of this, you’ll see us pick up some issues, but then defer them for later. We’ll send a message when this happens, usually explaining why it got more complicated.
 
-Conversely, issues that wake weeks, months or even more time, we cannot simply “dive into” and start working on them, but require more robust and careful planning. We also need to be a lot more careful and deliberate which ones we do pick.
+Conversely, issues that take weeks, months or even more time, we cannot simply “dive into” and start working on them, but require more robust and careful planning. We also need to be a lot more careful and deliberate which ones we do pick.
 
 Consider this - if an issue takes 5 minutes, we can ideally tackle 475 of them per day, which is 169100 per year. These are idealized numbers, but the point is, that we can tackle lots of them and don’t need to be as selective. In comparison, if an issue takes 3 months to implement, we can only do 4 of them per year.
 
