@@ -6,29 +6,29 @@ body:
   - type: textarea
     id: Describe
     attributes:
-      label: Describe the bug?
-      description: A clear and concise description of what the bug is?
+      label: Describe the Underlying Issue
+      description: For both feature requests, and bug reports, please provide a clear and description of what the issue is and the underlying problem you are trying to solve with the content.
     validations:
       required: true
   - type: textarea
     id: reproduction
     attributes:
       label: To Reproduce
-      description: Steps to reproduce the behavior. If possible, please include a link to content that exhibits this issue via a public folder, or world. recreate the issue in a new grid space template, and edit the world's metadata to 'anyone'.
+      description: Where is the issue found? Provide detail on the specific object/world/UI/other content item you are referring to, and where the issue lies.
     validations:
-      required: true
+      required: false
   - type: textarea
     id: expected-behavior
     attributes:
-      label: Expected behavior
-      description: A clear and concise description of what you expected to happen.
+      label: Expected Behavior
+      description: A clear and concise description of how you believe the content should work.
     validations:
       required: true
   - type: textarea
     id: screenshots
     attributes:
-      label: Screenshots
-      description: Add media to help explain your problem
+      label: Screenshots / Video
+      description: Add media to help visually explain the content issue you are reporting.
     validations:
       required: false
   - type: textarea
