@@ -20,7 +20,7 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 - **Ensure that the issue happens WITHOUT MODS OR PLUGINS** - sometimes mods or plugins can be source of the issues, so before you submit, make sure it occurs without them
 - **Provide a clean [log file](https://wiki.resonite.com/Log_Files)** from replicating the issue (do not use mods or plugins except for diagnostic ones (see below), launch the client, load the replication item/world, replicate the issue, and exit)
 - **Use objective, and respectful language** for any posts/comments submitted (negativity, hateful/angry issues/comments are liable to be edited or removed)
-- **Use short, but descriptive tittle** as vague titles (e.g. "Issue with system" instead of "System breaks when I grab thing") are much more likely to get overlooked and skimmed over
+- **Use short, but descriptive title**, as vague titles (e.g. "Issue with system" instead of "System breaks when I grab thing") are much more likely to get overlooked and skimmed over
 - **Be succint, but to the point**, because we tackle a lot of issues. Imagine you have just 30 seconds to sell us on why something is a good idea to put our time towards to. If we need to read long paragraphs or watch a long video to understand, we are much less likely to prioritize given issue
 - **Be specific** when possible, becaues vague statements can be hard to interpret. For example instead of "It took a long time to finish", say "It took about 30 minutes to finish". "Long" can mean different amounts in different contexts - for some things a minute is long time, for others an hour is short
 - **Provide accurate updates** if something changes with the issue, which makes the original sample or reproduction steps work, but issue still persists with other cases, make sure to include the information with your updates
@@ -32,8 +32,8 @@ We use a number of factors when prioritizing issues. If you'd like to learn more
 # Using Diagnostic mods/plugins
 We will accept additional diagnostic data produced by mods specifically made to diagnose given issue and provide more helpful context and information. In some cases these might be necessary to demonstrate certain issues, as they might not be visible directly or show in the log or can provide helpful information to help us narrow down the issue faster.
 
-If you want to create and use such mod/plugin for report, please ensure the following:
-- The issue must still occur without any mods present - in other words, ensure that the issue is problem with vanilla client
+If you want to create and use such a mod/plugin for report, please ensure the following:
+- The issue must still occur without any mods present - in other words, ensure that the issue is a problem with the vanilla client
 - Please provide the diagnostic data in the issue itself - we will typically not run third party mods or plugins ourselves
 - Providing the source of the mod can be helpful as well to provide more context, even when we don't run it
 
