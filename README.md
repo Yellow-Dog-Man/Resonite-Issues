@@ -22,18 +22,18 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 - **Use objective, and respectful language** for any posts/comments submitted (negativity, hateful/angry issues/comments are liable to be edited or removed)
 - **Use a short, but descriptive title**, as vague titles (e.g. "Issue with system" instead of "System breaks when I grab thing") are much more likely to get overlooked and skimmed over
 - **Be succinct, but to the point**, because we tackle a lot of issues. Imagine you have just 30 seconds to sell us on why something is a good idea to put our time towards. If we need to read long paragraphs or watch a long video to understand, we are much less likely to prioritize a given issue
-- **Be specific** when possible, because vague statements can be hard to interpret. For example instead of "It took a long time to finish", say "It took about 30 minutes to finish". "Long" can mean different amounts in different contexts - for some things a minute is a long time, for others an hour is a short time.
+- **Be specific** when possible, because vague statements can be hard to interpret. For example instead of "It took a long time to finish", say "It took about 30 minutes to finish". "Long" can mean different amounts in different contexts - for some things a minute is a long time, and for others, an hour is a short time.
 - **Provide accurate updates** if something changes with the issue, which makes the original sample or reproduction steps work, but the issue still persists with other cases, make sure to include the information with your updates.
 - **When asked for additional info, try to provide exactly what was asked**. We understand you want to be helpful and provide what you think might be even better than what we asked for in clarifications, but this is not always the case. We usually have very specific technical reasons when we request additional information and providing something else, even if it seems similar, might be missing some crucial components or make things more difficult. E.g. if we ask to provide a screenshot of something, don't provide a video instead - this makes it harder for us to parse and look through.
 - **Do not refer to projects we worked on in the past** we're unable to use materials or issues from past projects.
 
 # How we prioritize issues
-We use a number of factors when prioritizing issues. If you'd like to learn more and help increase the likelihood that your issue gets addressed, [read our HOW_WE_PRIORITIZE document here](HOW_WE_PRIORITIZE.md).
+We use several factors when prioritizing issues. If you'd like to learn more and help increase the likelihood that your issue gets addressed, [read our HOW_WE_PRIORITIZE document here](HOW_WE_PRIORITIZE.md).
 
 # Using Diagnostic mods/plugins
-We will accept additional diagnostic data produced by mods specifically made to diagnose given issue and provide more helpful context and information. In some cases these might be necessary to demonstrate certain issues, as they might not be visible directly or show in the log or can provide helpful information to help us narrow down the issue faster.
+We will accept additional diagnostic data produced by mods specifically made to diagnose a given issue and provide more helpful context and information. In some cases, these might be necessary to demonstrate certain issues, as they might not be visible directly or show in the log or can provide helpful information to help us narrow down the issue faster.
 
-If you want to create and use such a mod/plugin for report, please ensure the following:
+If you want to create and use such a mod/plugin for a report, please ensure the following:
 - The issue must still occur without any mods present - in other words, ensure that the issue is a problem with the vanilla client
 - Please provide the diagnostic data in the issue itself - we will typically not run third party mods or plugins ourselves
 - Providing the source of the mod can be helpful as well to provide more context, even when we don't run it
