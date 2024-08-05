@@ -11,20 +11,41 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 
 **FAILING TO FOLLOW THESE REQUIREMENTS MAY RESULT IN YOUR ISSUE GOING UNADDRESSED/BEING CLOSED**
 
-- **Use the most recent version of Resonite** when replicating your issues (this helps ensure that issues are still relevant and replicable)
-- **Try to search for existing issues** describing your problem before creating a new one (if an issue already exists for what you wish to report, please add to the existing issue instead)
-- **Focus on the high-level issue first, not a specific solution** as this lets us approach the problem most efficiently. E.g. it's better to create an issue saying "I can't do X", rather than "Add a component that when this and this it does this". Often there are many different solutions to a problem and if you ask us to implement a very specific solution, instead of asking the problem you're trying to solve, you're more likely to get a lot of questions and possibly no. To learn more, check this page about the XY Problem: https://xyproblem.info/
-- **Do not request overhauls of systems**, focus on the bugs or features you want. Whether or not to overhaul a particular system is something that the engineering team decides with the knowledge of the codebase, other issues and long-term plans. If you specifically request a problem to be solved by overhauling the entire system, you're much more likely to receive pushback on this. If you want to consider several issues for a single subsystem without specific solutions, you can [start a discussion](https://github.com/Yellow-Dog-Man/Resonite-Issues/discussions)
-- **Do not hijack issues for another feature/bug**, make another issue instead. Issues should never have comments similar to "While you're at it, can you also do this?", it will not be considered and will get lost when the original problem in the issue gets solved.
-- **Try to troubleshoot** and isolate the problem first before reporting it (e.g. if it is a complex ProtoFlux creation try to identify the specific node/node group that is not behaving as expected- strip down as much as possible from the item/world while still producing the bug)
-- **Ensure that the issue happens WITHOUT MODS OR PLUGINS** - sometimes mods or plugins can be the source of an issue, so before you submit, make sure it occurs without them.
-- **Provide a clean [log file](https://wiki.resonite.com/Log_Files)** from replicating the issue (do not use mods or plugins except for diagnostic ones (see below), launch the client, load the replication item/world, replicate the issue, and exit)
-- **Use objective, and respectful language** for any posts/comments submitted (negativity, hateful/angry issues/comments are liable to be edited or removed)
-- **Use a short, but descriptive title**, as vague titles (e.g. "Issue with system" instead of "System breaks when I grab thing") are much more likely to get overlooked and skimmed over
-- **Be succinct, but to the point**, because we tackle a lot of issues. Imagine you have just 30 seconds to sell us on why something is a good idea to put our time towards. If we need to read long paragraphs or watch a long video to understand, we are much less likely to prioritize a given issue
-- **Be specific** when possible, because vague statements can be hard to interpret. For example instead of "It took a long time to finish", say "It took about 30 minutes to finish". "Long" can mean different amounts in different contexts - for some things a minute is a long time, and for others, an hour is a short time.
-- **Provide accurate updates** if something changes with the issue, which makes the original sample or reproduction steps work, but the issue still persists with other cases, make sure to include the information with your updates.
-- **When asked for additional info, try to provide exactly what was asked**. We understand you want to be helpful and provide what you think might be even better than what we asked for in clarifications, but this is not always the case. We usually have very specific technical reasons when we request additional information and providing something else, even if it seems similar, might be missing some crucial components or make things more difficult. E.g. if we ask to provide a screenshot of something, don't provide a video instead - this makes it harder for us to parse and look through.
+- **Use the most recent version of Resonite** when replicating your issues.
+  - This helps ensure that issues are still relevant and replicable
+- **Try to search for existing issues** describing your problem before creating a new one
+  - If an issue already exists for what you wish to report, please add any additional information to the existing issue instead.
+- **Focus on the high-level issue first, not a specific solution**, as this lets us approach the problem most efficiently.
+    - For example, it's better to say "I have this problem", rather than "Add a component that when this and this happens, it does this".
+    - Problems can have many solutions and if your issue describes a very specific solution, you're more likely to get a lot of questions.
+    - In Computing, this issue is commonly referred to as the [XY Problem](https://xyproblem.info/)
+- **Do not request overhauls of systems**, focus on the bugs or features you want.
+    - Overhauling a particular system is solely a Resonite engineering team decision.
+    - If you want us to consider several issues for a single subsystem without specific solutions, you can [start a discussion](https://github.com/Yellow-Dog-Man/Resonite-Issues/discussions)
+- **Do not hijack issues for another feature/bug**, Make another issue instead.
+    - Issues should never have comments similar to "While you're at it, can you also do this?", it will not be considered and will get lost.
+- **Try to troubleshoot** and isolate the problem first before reporting it.
+    - For example, if it is a complex ProtoFlux creation try to identify the specific node/node group that is at fault. Then remove as much as possible from the item/world while still producing the bug.
+- **Ensure that the issue happens WITHOUT MODS OR PLUGINS**
+    - Sometimes mods or plugins can be the source of an issue, so before you submit, make sure it occurs without them.
+- **Provide a clean [log file](https://wiki.resonite.com/Log_Files)** from replicating the issue
+  - Except for [Diagnostic ones](#using-diagnostic-modsplugins), **Do not** use mods or plugins.
+  - Launch the client, Load the replication item/world, Replicate the issue, Exit
+- **Use objective, and respectful language** for anything submitted.
+  - Follow our [Code of Conduct](CODE_OF_CONDUCT.md) 
+- **Use a short, but descriptive title**, as vague titles
+  - For example use instead of "System breaks when used with Other system", instead of "System Issue".
+- **Be succinct and to the point**, because we tackle a lot of issues.
+  - Imagine you have just 30 seconds to explain to us what is wrong.
+  - If we need to read long paragraphs or watch long videos to understand an issue, then we are less likely to prioritize it.
+- **Be specific** when possible, because vague statements can be hard to interpret.
+  - For example instead of "It took a long time to finish", say "It took about 30 minutes to finish".
+  - For some users, a minute is a long time, and for others, an hour is a short time.
+- **Provide accurate updates** if something changes with the issue.
+  - If occurs more frequently, has additional, or changed replication steps then update us with a comment on the issue.
+- **When asked for additional info, try to provide exactly what was asked**.
+  - There are a variety of technical reasons why we need precisely what we ask for and missing the information may prevent us from progressing on an issue.
+-   For example, if we ask to provide a screenshot of something, don't provide a video instead - this makes it harder for us to parse and look through.
 - **Do not refer to projects we worked on in the past** we're unable to use materials or issues from past projects.
 
 # How we prioritize issues
