@@ -1,6 +1,6 @@
 name: Feature Request
 description: Recommend a feature for consideration.
-labels: [New Feature]
+labels: ["New Feature"]
 assignees: shiftyscales
 body:
   - type: textarea
