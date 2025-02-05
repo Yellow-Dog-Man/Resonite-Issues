@@ -22,6 +22,7 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 - **Do not request overhauls of systems**, focus on the bugs or features you want.
     - Overhauling a particular system is solely a Resonite engineering team decision.
     - If you want us to consider several issues for a single subsystem without specific solutions, you can [start a discussion](https://github.com/Yellow-Dog-Man/Resonite-Issues/discussions)
+- **Make separate issues for each unrelated feature/bug** - in other words, don't ask for multiple separate features/bugs in a single issue. This makes them much more difficult to process and a lot less likely to be prioritized, because it means we'll have to implement all of them at once, rather than piece-wise. We might also say yes to some features/fixes and no to others - but if you group them into single issue, than if we say "no" to just one of them, we have to say "no" to the whole.
 - **Do not hijack issues for another feature/bug**, Make another issue instead.
     - Issues should never have comments similar to "While you're at it, can you also do this?", it will not be considered and will get lost.
 - **Try to troubleshoot** and isolate the problem first before reporting it.
