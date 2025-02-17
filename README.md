@@ -44,6 +44,7 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 - **Be specific** when possible, because vague statements can be hard to interpret.
   - For example instead of "It took a long time to finish", say "It took about 30 minutes to finish".
   - For some users, a minute is a long time, and for others, an hour is a short time.
+  - Provide **exact** replication steps. Any vague steps can make replication difficult, because we won't know what exactly you did.
 - **Provide accurate updates** if something changes with the issue.
   - If occurs more frequently, has additional, or changed replication steps then update us with a comment on the issue.
 - **When asked for additional info, try to provide exactly what was asked**.
