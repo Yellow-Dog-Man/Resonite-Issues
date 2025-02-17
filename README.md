@@ -32,6 +32,8 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 - **Provide a clean [log file](https://wiki.resonite.com/Log_Files)** from replicating the issue
   - Except for [Diagnostic ones](#using-diagnostic-modsplugins), **Do not** use mods or plugins.
   - Launch the client, Load the replication item/world, Replicate the issue, Exit
+  - If it's not possible to cleanly replicate the issue or it only occured once, you can provide whatever log you have (however still without mods!) - however note that this makes fixing the issue harder, so finding clean replication case can improve item's priority
+  - For replication items, please provide the full item - the more steps it requires to assemble/replicate, the less priority we'll give the issue
 - **Use objective, and respectful language** for anything submitted.
   - Follow our [Code of Conduct](CODE_OF_CONDUCT.md) 
 - **Use a short, but descriptive title**, as vague titles
