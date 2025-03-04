@@ -1,7 +1,7 @@
 name: Content Issue
 description: For issues/feature requests relating to tutorial/home worlds, default facets, keyboards, video and audio players, and other content produced by our content team.
 labels: [content]
-assignees: shiftyscales, AegisTheWolf, RyuviTheViali, RueShejn
+assignees: AegisTheWolf, RyuviTheViali, RueShejn
 body:
   - type: textarea
     id: Describe
