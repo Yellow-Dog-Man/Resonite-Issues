@@ -1,7 +1,7 @@
 name: Bug Report
 description: When a feature is not behaving as expected.
 labels: [bug]
-assignees: 
+assignees: shiftyscales
 body:
   - type: textarea
     id: Describe
