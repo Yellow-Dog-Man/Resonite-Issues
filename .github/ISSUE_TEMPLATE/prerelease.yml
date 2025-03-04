@@ -1,7 +1,6 @@
 name: Prerelease Feedback
 description: Bug reports and feedback relating to prerelease builds of Resonite.
 labels: prerelease
-assignees: shiftyscales
 body:
   - type: textarea
     id: Describe
