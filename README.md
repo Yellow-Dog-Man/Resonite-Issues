@@ -52,6 +52,11 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 -   For example, if we ask to provide a screenshot of something, don't provide a video instead - this makes it harder for us to parse and look through.
 - **Do not refer to projects we worked on in the past** we're unable to use materials or issues from past projects.
 
+# Reporting crashes
+For hard crashes - when Resonite locks up entirely and/or shuts down we will typically need crash logs & crash dumps as well.
+
+How to find crash logs: https://wiki.resonite.com/Log_Files
+
 # How we prioritize issues
 We use several factors when prioritizing issues. If you'd like to learn more and help increase the likelihood that your issue gets addressed, [read our HOW_WE_PRIORITIZE document here](HOW_WE_PRIORITIZE.md).
 
