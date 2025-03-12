@@ -50,6 +50,7 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 - **When asked for additional info, try to provide exactly what was asked**.
   - There are a variety of technical reasons why we need precisely what we ask for and missing the information may prevent us from progressing on an issue.
 -   For example, if we ask to provide a screenshot of something, don't provide a video instead - this makes it harder for us to parse and look through.
+- **Fill out all the information you have at the time** - in other words, do not create "blank" or "placeholder" issues to fill out later. Once you submit an issue, it pops a notification and we might check it right away, only to find that it's not ready. The issue should be fully ready for us to tackle at the at the time of submission.
 - **Do not refer to projects we worked on in the past** we're unable to use materials or issues from past projects.
 
 # Reporting crashes
