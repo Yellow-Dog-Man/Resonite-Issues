@@ -70,3 +70,20 @@ If you want to create and use such a mod/plugin for a report, please ensure the 
 - Providing the source of the mod can be helpful as well to provide more context, even when we don't run it
 
 **Thank you for your reports, and feedback.**
+
+# Github Posting Guidelines
+
+We have a few guidelines to keep in mind when submitting new issues:
+
+
+- Keep discussion relevant to the issue. 
+
+- Please follow the direction of the developers in closing or resolving issues. Do not harass or otherwise attack developers if you disagree with the closing or direction provided concerning an issue.
+
+- Keep discussion civil. Arguments and personal disagreements should be brought to private messages, and  be respectful of the work of other users and other platforms. Entering into the repository with the intention to start arguments will lead to your removal.
+
+- All posts must be compliant with Github’s rules on appropriate content. 
+
+- Adult, Hateful or Obscene Content is not allowed in this Github. Please keep posts in the Github compliant with the broader Resonite Usage Guidelines.
+
+- Respect the identity of others. Use the names and pronouns that others request. If you make an honest mistake, simply correct yourself and move on. When in doubt, use neutral terms such as "They" or "Them". Debates on or rhetoric against trans identities, rights, or existence will not be tolerated here. We believe these conversations to be harmful, not political, and do not have a place here.
