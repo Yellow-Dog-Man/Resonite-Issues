@@ -13,7 +13,14 @@ body:
     id: reproduction
     attributes:
       label: To Reproduce
-      description: Steps to reproduce the behavior. If possible, please include a link to content that exhibits this issue via a public folder, or world. recreate the issue in a new grid space template, and edit the world's metadata to 'anyone'.
+      description: Steps to reproduce the behavior. Use bulletpoints and keep them as simple as possible - any steps that are not necessary to reproduce the issue should be omited.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction-item
+    attributes:
+      label: Reproduction Item/World
+      description: Please include a link to content that replicates this issue. This can be link to public folder/world (make sure it's marked public please or that world access is set to Anyone) or .ResonitePackage file uploaded directly here. If the issue cannot be replicated through an item/world, just type "N/A". 
     validations:
       required: true
   - type: textarea
