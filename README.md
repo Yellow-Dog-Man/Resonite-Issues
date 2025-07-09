@@ -1,9 +1,10 @@
 # Resonite Issues
 Issue repository for Resonite. Please log any bug reports, or feature requests here using the appropriate template:
 
-- [:bug: To Report a Bug Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?assignees=shiftyscales&labels=bug&projects=&template=bug-report.yml)
-- [:computer: To Request a Feature Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?assignees=shiftyscales&labels=enhancement&projects=&template=feature-request.yml)
-- [:paintbrush: To Report an Issue with Content such as the Cloud Home Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?assignees=shiftyscales%2C+AegisTheWolf%2C+RyuviTheViali%2C+RueShejn&labels=content&projects=&template=content-issue.yml)
+- [:bug: To Report a Bug Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?labels=bug&projects=&template=bug-report.yml)
+- [:computer: To Request a Feature Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?labels=enhancement&projects=&template=feature-request.yml)
+- [:paintbrush: To Report an Issue with Content such as the Cloud Home Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?assignees=+AegisTheWolf%2C+RyuviTheViali%2C+RueShejn&labels=content&projects=&template=content-issue.yml)
+- [:satellite: To Report a bug appearing on a pre-release Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=prerelease.yml)
 - [:lock: To Report a Security issue please open a ticket](https://support.resonite.com/)
 
 # Reporting Requirements
