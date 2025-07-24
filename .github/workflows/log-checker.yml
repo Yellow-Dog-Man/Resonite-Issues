@@ -1,0 +1,56 @@
+name: Check bug reports for log files
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  check-log:
+    if: github.event.label.name == 'bug' || github.event.name == 'prerelease'
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      issues: write
+      contents: read
+
+    steps:
+      - name: Check if log file exists
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue_number = context.issue.number;
+            const { data: issue } = await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number,
+            });
+
+            const body = issue.body || "";
+            const logSection = body.match(/### Log Files\s*\n+([\s\S]*?)(\n###|$)/i);
+            const logField = logSection ? logSection[1].trim() : "";
+
+            const hasLog = /\.log\b/i.test(logField);
+
+            if (!hasLog) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number,
+                body: `Hi! Thank you for reporting this bug on the Resonite issue tracker.
+
+            We noticed you haven't attached a proper log file in your report.
+            Including a log helps us pinpoint the exact issue which is why it is required during the report process.
+
+            If you do not know where to find log files, please [see this tutorial on the Resonite Wiki](https://wiki.resonite.com/Log_Files#Regular_Log_Files) to see where to find them.
+
+            Thank you!`
+              });
+
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number,
+                labels: ['needs more information']
+              });
+            }
