@@ -2,13 +2,6 @@ name: External service
 description: When an external service (moderation portal, metrics, etc) isn't working as expected.
 labels: [external]
 body:
-  - type: textarea
-    id: Describe
-    attributes:
-      label: Describe the issue
-      description: A clear and concise description of what the issue is.
-    validations:
-      required: true
   - type: dropdown
     id: which-service
     attributes:
@@ -20,6 +13,13 @@ body:
         - Metrics website
         - Main Website
         - Wiki
+    validations:
+      required: true
+  - type: textarea
+    id: Describe
+    attributes:
+      label: Describe the issue
+      description: A clear and concise description of what the issue is.
     validations:
       required: true
   - type: textarea
