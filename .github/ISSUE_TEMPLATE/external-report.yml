@@ -11,13 +11,15 @@ body:
       required: true
   - type: dropdown
     id: which-service
-    label: Which service does the issue occurs on?
-    options:
-      - Moderation/Support portal
-      - Accounts website
-      - Metrics website
-      - Main Website
-      - Wiki
+    attributes:
+      label: Which service does the issue occurs on?
+      multiple: false
+      options:
+        - Moderation/Support portal
+        - Accounts website
+        - Metrics website
+        - Main Website
+        - Wiki
     validations:
       required: true
   - type: textarea
