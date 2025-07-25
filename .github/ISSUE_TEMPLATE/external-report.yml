@@ -1,0 +1,29 @@
+name: External service
+description: When an external service (moderation portal, metrics, etc) isn't working as expected.
+labels: [external]
+body:
+  - type: dropdown
+    id: which-service
+    attributes:
+      label: Which service does the issue occurs on?
+      multiple: false
+      options:
+        - Moderation/Support portal
+        - Accounts website
+        - Metrics website
+        - Main Website
+        - Wiki
+    validations:
+      required: true
+  - type: textarea
+    id: Describe
+    attributes:
+      label: Describe the issue
+      description: A clear and concise description of what the issue is.
+    validations:
+      required: true
+  - type: textarea
+    id: reporters
+    attributes:
+      label: Reporters
+      description: Usernames / Discord handles of anyone (including yourself) who has reported/replicated this bug (will be used to credit in release notes).
