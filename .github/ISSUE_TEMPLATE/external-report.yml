@@ -13,6 +13,7 @@ body:
         - Metrics website
         - Main Website
         - Wiki
+        - Events Website
     validations:
       required: true
   - type: textarea
