@@ -6,7 +6,7 @@ on:
 
 jobs:
   check-log:
-    if: github.event.label.name == 'bug' || github.event.name == 'prerelease'
+    if: github.event.label.name == 'bug' || github.event.label.name == 'prerelease'
     runs-on: ubuntu-latest
     permissions:
       issues: write
