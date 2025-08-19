@@ -88,3 +88,19 @@ We have a few guidelines to keep in mind when submitting new issues:
 - Adult, Hateful or Obscene Content is not allowed in this Github. Please keep posts in the Github compliant with the broader Resonite Usage Guidelines.
 
 - Respect the identity of others. Use the names and pronouns that others request. If you make an honest mistake, simply correct yourself and move on. When in doubt, use neutral terms such as "They" or "Them". Debates on or rhetoric against trans identities, rights, or existence will not be tolerated here. We believe these conversations to be harmful, not political, and do not have a place here.
+
+# Diagnosing confusing crashes
+If Resonite suddenly crashes with no Unity crash log, this might be due to the OS taking the app down due to a very low level crash. Here's a good way to check those:
+
+1) Open the Event Viewer in Windows
+2) Under Windows Logs -> Application
+3) Find recent Error / Application Error and open it
+4) Check if the details mention Resonite. There should be basic info like this (note it might say Renderite.Host.exe instead of Resonite.exe):
+
+![image](https://github.com/user-attachments/assets/8f095bd5-50a3-4bf9-873f-1122a32f6b05)
+
+We'll need to gather crash dump to diagnose it. To do that follow these steps:
+1) Enable User-Mode Dumps: https://learn.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
+2) Replicate the crash
+3) Go to the folder configured in the step 1) and check if there's a .dmp file with corresponding timestamp.
+4) Provide the .dmp file as part of your report 
