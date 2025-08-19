@@ -97,7 +97,7 @@ If Resonite suddenly crashes with no Unity crash log, this might be due to the O
 3) Find recent Error / Application Error and open it
 4) Check if the details mention Resonite. There should be basic info like this (note it might say Renderite.Host.exe instead of Resonite.exe):
 
-![image](https://github.com/user-attachments/assets/8f095bd5-50a3-4bf9-873f-1122a32f6b05)
+<img width="1782" height="894" alt="8f095bd5-50a3-4bf9-873f-1122a32f6b05-1" src="https://github.com/user-attachments/assets/da234ce4-018e-407b-a6f4-de4fde72cb05" />
 
 We'll need to gather crash dump to diagnose it. To do that follow these steps:
 1) Enable User-Mode Dumps: https://learn.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
