@@ -5,7 +5,7 @@ body:
   - type: dropdown
     id: which-service
     attributes:
-      label: Which service does the issue occurs on?
+      label: Which service does the issue occur on?
       multiple: false
       options:
         - Resonite Cloud Infrastructure
