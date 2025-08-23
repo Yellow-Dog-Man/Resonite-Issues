@@ -8,12 +8,14 @@ body:
       label: Which service does the issue occurs on?
       multiple: false
       options:
+        - Resonite Cloud Infrastructure
         - Moderation/Support portal
         - Accounts website
         - Metrics website
         - Main Website
         - Wiki
         - Events Website
+        - go.resonite.com
     validations:
       required: true
   - type: textarea
