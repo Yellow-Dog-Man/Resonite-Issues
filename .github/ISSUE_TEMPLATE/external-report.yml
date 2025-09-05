@@ -16,6 +16,8 @@ body:
         - Wiki
         - Events Website
         - go.resonite.com
+        - GitHub
+        - Other
     validations:
       required: true
   - type: textarea
