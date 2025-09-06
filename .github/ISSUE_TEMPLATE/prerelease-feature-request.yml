@@ -1,0 +1,37 @@
+name: Prerelease Feature Request
+description: Recommend a prerelease-related feature for consideration.
+labels: [prerelease, "New Feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem? Please describe.
+      description: A clear and concise description of what the problem is. Ex. I'm always frustrated when...
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the solution you'd like
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: A clear and concise description of any alternative solutions or features you've considered.
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here.
+    validations:
+      required: false
+  - type: textarea
+    id: requesters
+    attributes:
+      label: Requesters
+      description: Usernames / Discord handles of anyone (including yourself) who has requested this feature (will be used to credit in release notes).
