@@ -52,7 +52,8 @@ body:
       options:
         - "Windows"
         - "Linux"
-        - "Android / Quest"
+        - "Headless Windows"
+        - "Headless Linux"
     validations:
       required: true
   - type: input
