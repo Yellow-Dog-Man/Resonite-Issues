@@ -1,12 +1,12 @@
-name: Prerelease Bug Report
-description: Bug reports relating to prerelease builds of Resonite.
+name: Prerelease Issue Report
+description: Issue reports relating to prerelease builds of Resonite.
 labels: [prerelease, bug]
 body:
   - type: textarea
     id: Describe
     attributes:
       label: Describe the bug?
-      description: A clear and concise description of what the bug is?
+      description: A clear and concise description of what the issue is?
     validations:
       required: true
   - type: textarea
@@ -78,4 +78,4 @@ body:
     id: reporters
     attributes:
       label: Reporters
-      description: Usernames / Discord handles of anyone (including yourself) who has reported/replicated this bug (will be used to credit in release notes).
+      description: Usernames / Discord handles of anyone (including yourself) who has reported/replicated this issue (will be used to credit in release notes).
