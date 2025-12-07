@@ -14,7 +14,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: 'Describe the problem you're having or the feature you're requesting. Please be concise and to the point.'
+      description: Describe the problem you're having or the feature you're requesting. Please be concise and to the point.
     validations:
       required: true
   - type: textarea
