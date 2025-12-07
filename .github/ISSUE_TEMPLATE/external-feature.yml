@@ -1,0 +1,24 @@
+name: 'Wiki feature request'
+description: 'When you want something to be added to the wiki.'
+labels: [wiki]
+body:
+  - type: dropdown
+    id: issue-type
+    multiple: false
+    options:
+      - Error / Problem
+      - Feature request
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: 'Describe the problem you're having or the feature you're requesting. Please be concise and to the point.'
+    validations:
+      required: true
+  - type: textarea
+    id: reporters
+    attributes:
+      label: Reporters
+      description: Usernames / Discord handles of anyone (including yourself) who has reported/asked for this.
