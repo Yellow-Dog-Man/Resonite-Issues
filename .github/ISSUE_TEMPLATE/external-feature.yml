@@ -4,10 +4,12 @@ labels: [wiki]
 body:
   - type: dropdown
     id: issue-type
-    multiple: false
-    options:
-      - Error / Problem
-      - Feature request
+    attributes:
+      label: Type of issue you're having
+      multiple: false
+      options:
+        - Error / Problem
+        - Feature request
     validations:
       required: true
   - type: textarea
