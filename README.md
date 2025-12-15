@@ -1,11 +1,7 @@
 # Resonite Issues
 Issue repository for Resonite. Please log any bug reports, or feature requests here using the appropriate template:
 
-- [:bug: To Report a Bug Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?labels=bug&projects=&template=bug-report.yml)
-- [:computer: To Request a Feature Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?labels=enhancement&projects=&template=feature-request.yml)
-- [:paintbrush: To Report an Issue with Content such as the Cloud Home Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?assignees=+AegisTheWolf%2C+RyuviTheViali%2C+RueShejn&labels=content&projects=&template=content-issue.yml)
-- [:satellite: To Report a Bug appearing on a pre-release Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=prerelease-bug-report.yml)
-- [:test_tube: To Request a pre-release Feature Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=prerelease-feature-request.yml)
+- [To Report a Bug, Request Feature or provide feedback Click Here](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new/choose)
 - [:lock: To Report a Security issue please open a ticket](https://support.resonite.com/)
 
 # Reporting Requirements
