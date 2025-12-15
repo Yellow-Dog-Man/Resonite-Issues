@@ -3,6 +3,10 @@ One of the things that helps us a lot isn’t just specific features or bugs, bu
 
 Understanding how people interact with the platform, what they like and what causes frustrations helps us drive the direction and design features to help with the pain points, while also encouraging us to do more things that people find enjoyable. 
 
+### Video explanation
+If you'd like to watch explanation of these new issue types in video form, check out this clip from Resonance!
+[![Resonance video explaining the changes](https://img.youtube.com/vi/6YCMXLLtFME/0.jpg)](https://www.youtube.com/watch?v=6YCMXLLtFME)
+
 However we don’t have a good issue template for this kind of feedback. To fix this, we’re introducing two new issue templates:
 
 ## Positive observation
