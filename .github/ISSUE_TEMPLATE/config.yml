@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Official Discord
+  - name: 🗨 Official Discord
     url: https://discord.gg/resonite
     about: The place to discuss all things Resonite
-  - name: Resonite Moderation
+  - name: 🛡️ Resonite Moderation
     url: https://moderation.resonite.com
     about: Please report any guidelines breaches here
-  - name: Resonite Support
+  - name: 🙋 Resonite Support
     url: https://support.resonite.com
     about: Please report any account issues here
