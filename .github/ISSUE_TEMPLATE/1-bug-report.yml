@@ -1,4 +1,4 @@
-name: Bug Report
+name: 🐞 Bug Report
 description: When a feature is not behaving as expected.
 labels: [bug]
 body:

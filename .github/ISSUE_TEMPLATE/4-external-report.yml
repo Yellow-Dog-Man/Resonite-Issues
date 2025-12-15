@@ -1,4 +1,4 @@
-name: External service
+aname: 🌐 External service
 description: When an external service (moderation portal, metrics, etc) isn't working as expected.
 labels: [external]
 body:
