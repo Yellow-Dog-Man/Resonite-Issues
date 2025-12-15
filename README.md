@@ -7,7 +7,7 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 - [:lock: To Report a Security issue please open a ticket](https://support.resonite.com/)
 
 ## High level feedback
-If you'd like to provide us with higher level feedback without focusing too much on technical details, we recommend creating a feedback issue! You can (learn more about these here)[OBSERVATION_ISSUES.md]
+If you'd like to provide us with higher level feedback without focusing too much on technical details, we recommend creating a feedback issue! You can [learn more about these here](OBSERVATION_ISSUES.md)
 
 - [🌟 Share Positive Observation / Feature Showcase](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=5-friction-point-observation.yml)
 - [🧱 Share Friction Point Observation](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=6-positive-observation.yml)
