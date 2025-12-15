@@ -21,7 +21,7 @@ If team members also need to sacrifice their creative day for a deadline or urge
 Another important thing - we need to make sure to clearly mark issues & devlogs as “creative / experimentation” ones - this will let people know that it’s being prioritized by the developer for fun and adjust their expectations, while also normalizing the presence of such work!
 
 ## Label
-(CreativeDayLabel.png)
+[![Creative Day GitHub label](CreativeDayLabel.png)]
 
 Creative / Experimentation day issues will be marked with this label while they're in the creative / experimentation phase!
 
