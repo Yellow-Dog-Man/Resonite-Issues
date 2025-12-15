@@ -2,6 +2,14 @@ name: Positive observation
 description: Is there a feature, bugfix or anything else that has helped you or other user? Want to encourage us to do more work in certain area? Or would you like your work with our features to be showcased on our official streams and get a shoutout? This issue is for you!
 labels: [positive observation]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        There's a few reasons to make this issue
+          - You want to share some positivity with us!
+          - You'd like to encourage us to do more similar work
+          - You want to show off something cool you made with a feature (new or old) - **we'll show off your stuff through our official channels and give you a shoutout!**
+        To learn more about this issue type, [check the document & video here!](OBSERVATION_ISSUES.md).
   - type: textarea
     id: change
     attributes:
