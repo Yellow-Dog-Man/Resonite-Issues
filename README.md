@@ -9,8 +9,8 @@ Issue repository for Resonite. Please log any bug reports, or feature requests h
 ## High level feedback
 If you'd like to provide us with higher level feedback without focusing too much on technical details, we recommend creating a feedback issue! You can (learn more about these here)[OBSERVATION_ISSUES.md]
 
-- (🌟 Share Positive Observation / Feature Showcase)[https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=5-friction-point-observation.yml]
-- (🧱 Share Friction Point Observation)[https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=6-positive-observation.yml]
+- [🌟 Share Positive Observation / Feature Showcase](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=5-friction-point-observation.yml)
+- [🧱 Share Friction Point Observation](https://github.com/Yellow-Dog-Man/Resonite-Issues/issues/new?template=6-positive-observation.yml)
 
 Note that this is not a replacement for bug reports! To fix specific bugs we will still need a proper technical report with logs and everything.
 
