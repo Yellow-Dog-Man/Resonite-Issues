@@ -22,13 +22,6 @@ body:
     validations:
       required: true
   - type: textarea
-    id: steps
-    attributes:
-      label: What have you tried to achieve the task?
-      description: What steps, tools or pieces of UI did you try to use in order to achieve your task?
-    validations:
-      required: true
-  - type: textarea
     id: frictionpoint
     attributes:
       label: What did you get stuck on or what was difficult?
