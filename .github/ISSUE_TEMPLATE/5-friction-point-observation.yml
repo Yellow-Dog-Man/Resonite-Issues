@@ -1,0 +1,62 @@
+name: Friction point observation
+description: You observed a friction point when using Resonite, either for yourself or for another user - e.g. something that was particularly difficult or you did not figure out how to achieve.
+labels: [friction point]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **IMPORTANT:** This report is **NOT** a place to vent. Keep the report objective and **free of emotion** - otherwise it will be closed immediately.
+  - type: textarea
+    id: goal
+    attributes:
+      label: What were you trying to do?
+      description: Describe at high level what were you trying to do in Resonite (e.g. "find other users", "create a snapper on avatar", "setup full body")
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What have you tried to achieve the task?
+      description: What steps, tools or pieces of UI did you try to use in order to achieve your task?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What have you tried to achieve the task?
+      description: What steps, tools or pieces of UI did you try to use in order to achieve your task?
+    validations:
+      required: true
+  - type: textarea
+    id: frictionpoint
+    attributes:
+      label: What did you get stuck on or what was difficult?
+      description: Describe which part of the process was the friction point of the task - that is either you could not achieve your task at all, or it was too difficult to figure it out.
+    validations:
+      required: true
+  - type: textarea
+    id: workingpoint
+    attributes:
+      label: What parts (if any) of the process were easy and worked well?
+      description: It can help us understand if there are parts of the process that actually did work well for you when trying to achieve your task.
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Video
+      description: If you have screenshots or video documenting the friction point, consider including it, as it can help us greatly to visually understand the problem!
+    validations:
+      required: false
+  - type: textarea
+    id: related-issues
+    attributes:
+      label: Related bugs / feature requests
+      description: Are there any reported bugs or feature requests that are related to this friction point? If so, you can include links to them here for context.
+    validations:
+      required: false
+  - type: textarea
+    id: reporters
+    attributes:
+      label: Reporters
+      description: Usernames / Discord handles of anyone (including yourself) who has observed or experienced this friction point (will be used to credit in release notes if we end up making changes based on this report).

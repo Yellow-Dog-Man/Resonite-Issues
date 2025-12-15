@@ -1,0 +1,44 @@
+name: Positive observation
+description: Is there a feature, bugfix or anything else that has helped you or other user? Want to encourage us to do more work in certain area? Or would you like your work with our features to be showcased on our official streams and get a shoutout? This issue is for you!
+labels: [positive observation]
+body:
+  - type: textarea
+    id: change
+    attributes:
+      label: Is the positive observation based on a recent change?
+      description: If a recent change (e.g. fixed bug or implemented feature) has led to a positive experience, let us know which one it was! E.g. you can include Resonite version, link to changelog or it can be kept more vague (e.g. within last week). Or you can just say "No" or leave empty if the positive observation is for a feature that's been around for a while.
+    validations:
+      required: false
+  - type: textarea
+    id: observation
+    attributes:
+      label: What did you like?
+      description: Share your positive observation! Did a bugfix make your work easier? Did a nfew feature let you make something cool before that you couldn't before? Anything else you'd like to share?
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Video (for a showcase)
+      description: If you have screenshots or video showing off what you did/make with Resonite, please include it! We'll share the really good showcases through our official channels and give you a shoutout!
+    validations:
+      required: false
+  - type: textarea
+    id: futurework
+    attributes:
+      label: Would you like us to do more similar work?
+      description: If you'd like us to give the similar area of software more love, let us know! E.g. if we added new things to particle system and you'd like us to do more work there, this is a good place to encourage us to spend some more time on it.
+    validations:
+      required: false
+  - type: textarea
+    id: related-issues
+    attributes:
+      label: Related bugs / feature requests
+      description: Is this positive experience based on a bug we fixed or feature we implemented? If so, you can include links to them here (even if they are closed) for extra content, but this is optional!
+    validations:
+      required: false
+  - type: textarea
+    id: reporters
+    attributes:
+      label: Reporters
+      description: Usernames / Discord / BSky / YouTube / other handles of anyone (including yourself) providing this feedback (we will include those when giving a shoutout if this makes it to our official streams!)
