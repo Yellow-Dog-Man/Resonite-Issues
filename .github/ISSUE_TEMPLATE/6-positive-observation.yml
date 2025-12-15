@@ -1,5 +1,5 @@
 name: Positive observation
-description: Is there a feature, bugfix or anything else that has helped you or other user? Want to encourage us to do more work in certain area? Or would you like your work with our features to be showcased on our official streams and get a shoutout? This issue is for you!
+description: If a feature, bugfix or other change helped improve your experience and you'd like us to do more, please share your experience! If you include a video we'll give you a shoutout in our official channels!
 labels: [positive observation]
 body:
   - type: markdown
