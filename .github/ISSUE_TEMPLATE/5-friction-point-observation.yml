@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         **IMPORTANT:** This report is **NOT** a place to vent. Keep the report objective and **free of emotion** - otherwise it will be closed immediately.
-        To learn more about this issue type, [check the document & video here!](repo/blob/master/OBSERVATION_ISSUES.md).
+        To learn more about this issue type, [check the document & video here!](blob/main/OBSERVATION_ISSUES.md).
   - type: textarea
     id: goal
     attributes:
