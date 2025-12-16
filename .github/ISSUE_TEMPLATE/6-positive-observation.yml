@@ -9,7 +9,7 @@ body:
           - You want to share some positivity with us!
           - You'd like to encourage us to do more similar work
           - You want to show off something cool you made with a feature (new or old) - **we'll show off your stuff through our official channels and give you a shoutout!**
-        To learn more about this issue type, [check the document & video here!](OBSERVATION_ISSUES.md).
+        To learn more about this issue type, [check the document & video here!](https://github.com/Yellow-Dog-Man/Resonite-Issues/blob/main/OBSERVATION_ISSUES.md).
   - type: textarea
     id: change
     attributes:
