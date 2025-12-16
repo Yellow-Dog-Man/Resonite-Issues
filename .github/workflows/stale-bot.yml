@@ -37,10 +37,10 @@ jobs:
           exempt-draft-pr: 'true'
           exempt-issue-labels: 'nostale'
           close-issue-message: >
-            Hi, this issue was closed due to inactivity.
+            Hi, this issue was closed due to not providing requested information.
             
             If you wish to have it re-opened please:
             - Provide the information requested (additional feature details, logs, etc)
-            - Make sure all questions in the comment thread are answered
+            - Make sure all questions from the Resonite team in the comment thread are answered
             
             Thanks you again!
