@@ -19,7 +19,7 @@ jobs:
         with:
           days-before-stale: '90'
           stale-issue-message: >
-            Hi, this issue has had a request for more information more than 90 days ago.
+            Hi, this issue has had a request for more information for more than 90 days.
             
             If you reported a bug:
             - Has the issue been solved by an update in the meanwhile?
