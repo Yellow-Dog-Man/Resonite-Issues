@@ -22,10 +22,12 @@ jobs:
             Hi, this issue has had a request for more information for more than 90 days.  
               
             If you reported a bug:  
+              
             - Has the issue been solved by an update in the meanwhile?  
             - Make sure logs are attached properly to the report as those are **always** needed.  
               
             If you requested a feature:  
+              
             - Make sure you provided all the information needed  
             - Double check if any questions about the feature remain in the comment thread  
               
