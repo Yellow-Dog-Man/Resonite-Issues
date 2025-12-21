@@ -19,17 +19,17 @@ jobs:
         with:
           days-before-stale: '90'
           stale-issue-message: >
-            Hi, this issue has had a request for more information for more than 90 days.
-            
-            If you reported a bug:
-            - Has the issue been solved by an update in the meanwhile?
-            - Make sure logs are attached properly to the report as those are **always** needed.
-            
-            If you requested a feature:
-            - Make sure you provided all the information needed 
-            - Double check if any questions about the feature remain in the comment thread
-            
-            If no updates are provided within 30 days, this issue will be closed automatically.
+            Hi, this issue has had a request for more information for more than 90 days.  
+              
+            If you reported a bug:  
+            - Has the issue been solved by an update in the meanwhile?  
+            - Make sure logs are attached properly to the report as those are **always** needed.  
+              
+            If you requested a feature:  
+            - Make sure you provided all the information needed  
+            - Double check if any questions about the feature remain in the comment thread  
+              
+            If no updates are provided within 30 days, this issue will be closed automatically.  
             Thank you!
           days-before-close: '30'
           only-labels: 'needs more information'
@@ -37,10 +37,10 @@ jobs:
           exempt-draft-pr: 'true'
           exempt-issue-labels: 'nostale'
           close-issue-message: >
-            Hi, this issue was closed due to not providing requested information.
-            
-            If you wish to have it re-opened please:
-            - Provide the information requested (additional feature details, logs, etc)
-            - Make sure all questions from the Resonite team in the comment thread are answered
-            
+            Hi, this issue was closed due to not providing requested information.  
+              
+            If you wish to have it re-opened please:  
+            - Provide the information requested (additional feature details, logs, etc)  
+            - Make sure all questions from the Resonite team in the comment thread are answered  
+              
             Thanks you again!
