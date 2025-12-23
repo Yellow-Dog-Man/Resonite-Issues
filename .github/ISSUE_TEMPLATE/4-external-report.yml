@@ -1,4 +1,4 @@
-aname: 🌐 External service
+name: 🌐 External service
 description: When an external service (moderation portal, metrics, etc) isn't working as expected.
 labels: [external]
 body:
@@ -15,7 +15,7 @@ body:
         - Main Website
         - Events Website
         - go.resonite.com
-        - GitHub
+        - GitHub (Bots, issues)
         - Other
     validations:
       required: true
