@@ -77,6 +77,31 @@ If you want to create and use such a mod/plugin for a report, please ensure the 
 - Please provide the diagnostic data in the issue itself - we will typically not run third party mods or plugins ourselves
 - Providing the source of the mod can be helpful as well to provide more context, even when we don't run it
 
+# Why do we always need logs?
+For bug reports, we always request log files to be included with the initial report. If the logs are not included, the issue will automatically labeled as Needing More Information, meaning we'll pay a lot less attention to it than issues that have everything in order. We **strongly** recommend making sure you have everything together when posting the issue to maximize likelyhood of it being prioritized.
+
+It is important to include logs, even if you feel they are unecessary. There is a number of reasons for this:
+- In most cases when people assume they are not necessary, they actually are.
+   - Logs aren't just for errors, they contain a number of other diagnostic information that we might be looking for, that you're not aware of
+   - E.g. we can determine sequence of certain events during reproduction
+   - Sometimes we can also be looking for things *NOT* being in the log
+   - They also tell us which modules, systems, drivers and other systems were initialized, which can help us resolve issues quicker
+- They serve as "sanity check" before we start working on issues
+   - We can be sure of what Resonite version and HW you're using (for example we've had cases where bugs were reported for really old versions of Resonite without the user realizing)
+- Needing back & forth to get logs from the user wastes our time and mental focus
+   - This is even worse when getting logs becomes an argument - the time we spend explaining why exactly we need particular log is time we spend not fixing issues
+   - Our time is very limited - we are a small team and all we're asking of you is to make our job as smooth as possible, so we can address as many issues as we can
+ 
+**It's better for issue to have a log and not need it, than need it and not have it.** It saves us a lot of the time. And we use the logs as "starting point" to work on issues a lot more than you'd think!
+ 
+## What if I **REALLY** feel there's issues that don't need logs?
+If even given above information you feel there's types of issues that do not require logs (or can't have any), we recommend following:
+- If you're reporting undesirable behavior that isn't exactly bug, you can open a "Friction Point" issue
+- For problems with external systems, create "External service" issue
+- If you feel there's no category for the issue type you want to make, create "Friction Point" issue about this and we can add additional issue templates
+   - E.g. "locale/typo" issue template
+   - This will keep these focused on particular problems that do not involve logs
+
 **Thank you for your reports, and feedback.**
 
 # Github Posting Guidelines
