@@ -18,6 +18,7 @@ jobs:
         uses: actions/stale@v10
         with:
           days-before-stale: '90'
+          operations-per-run: '1000'
           stale-issue-message: >
             Hi, this issue has had a request for more information for more than 90 days.  
               
