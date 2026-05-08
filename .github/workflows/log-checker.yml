@@ -13,6 +13,6 @@ jobs:
       contents: read
     steps:
       - name: Check if log file exists
-        uses: Yellow-Dog-Man/logscanner-action@v1.2.3
+        uses: Yellow-Dog-Man/logscanner-action@bd717cd37b5ee82719fbce2206b2a15d257abc20 # v1.2.3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
