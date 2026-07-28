@@ -44,22 +44,6 @@ body:
       placeholder: 1.2.3 (USE AN ACTUAL VERSION NUMBER)
     validations:
       required: true
-  - type: dropdown
-    id: platforms
-    attributes:
-      label: What Platforms does this occur on?
-      multiple: true
-      options:
-        - "Windows"
-        - "Linux"
-        - "Android / Quest"
-    validations:
-      required: true
-  - type: input
-    id: headset
-    attributes:
-      label: What headset if any do you use?
-      placeholder: Vive, Desktop?
   - type: textarea
     id: log-files
     attributes:
