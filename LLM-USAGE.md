@@ -5,6 +5,8 @@ The policy also applies to `Yellow-Dog-Man` private repositories with additional
 
 This policy does **NOT** apply to any content published on the Resonite platform itself, which is covered by a separate policy (TODO: Add link).
 
+For additional information about the policy itself, including exact scope, see [the appendix](#appendix).
+
 This policy has been adapted from the [Rust language LLM policy](https://forge.rust-lang.org/policies/llm-usage.html), available under MIT license and is under the same license.
 
 ### Why we chose to adopt Rust policy as basis
@@ -149,6 +151,10 @@ The following are not in scope and are free to set their own policies:
     - This only applies as long as no PR's or contributions are pushed upstream
     - Any upstream contributions must follow this policy
 - 3rd party libraries, mods and any other repositories related to the Resonite project, but not under the official `Yellow-Dog-Man` account
+- Upstream changes in `Yellow-Dog-Man` dependency forks
+    - We do not control policies of any 3rd party projects that we might be using as dependencies
+    - Any changes coming from upstream sources are not (and can not be) covered by this policy
+    - Direct contributions against our forks are covered by this policy
 - User content published on the Resonite platform
     - This is covered by separate policy (TODO: Add link)
 - Official Resonite assets
