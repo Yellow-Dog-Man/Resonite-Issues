@@ -96,7 +96,7 @@ It is important to include logs, even if you feel they are unnecessary. There is
  
 ## What if I **REALLY** feel there's issues that don't need logs?
 If even given above information you feel there's types of issues that do not require logs (or can't have any), we recommend following:
-- If you're reporting undesirable behavior that isn't exactly bug, you can open a "Friction Point" issue
+- If you're reporting undesirable behavior that isn't exactly a bug, you can open a "Friction Point" issue
 - For problems with external systems, create an "External service" issue
 - If you feel there's no category for the issue type you want to make, create a "Friction Point" issue about it and we can add additional issue templates
    - E.g. "locale/typo" issue template
