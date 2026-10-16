@@ -60,6 +60,7 @@ Note that this is not a replacement for bug reports! To fix specific bugs we wil
 -   For example, if we ask to provide a screenshot of something, don't provide a video instead - this makes it harder for us to parse and look through.
 - **Fill out all the information you have at the time** - in other words, do not create "blank" or "placeholder" issues to fill out later. Once you submit an issue, it pops a notification and we might check it right away, only to find that it's not ready. The issue should be fully ready for us to tackle at the at the time of submission.
 - **Do not refer to projects we worked on in the past** we're unable to use materials or issues from past projects.
+- **Do not close issues yourself**, in the case of feature requests or bug reports, closing an issue yourself can cause confusion as if the particular issue has been addressed or not, and has the side effect of not being able to transfer votes to a new one due to GitHub's limitations.
 
 # Reporting crashes
 For hard crashes - when Resonite locks up entirely and/or shuts down we will typically need crash logs & crash dumps as well.
