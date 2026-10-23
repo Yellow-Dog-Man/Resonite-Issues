@@ -11,11 +11,11 @@ Here is a quick overview:
 
 - Official Yellow Dog Man Studios use (code, assets, features & user data)
     - These are rules for ourselves, so they are most strict
-- Open source component contributors
+- [Open source component contributors](LLM-USAGE.md)
     - This affects community contribuing code to our open source coomponents
     - Those components are shipped by us to everyone as part of Resonite install
     - These are still pretty strict, with looser rules on private use
-- User content on Resonite
+- [User content on Resonite](USER_CONTENT_AI_POLICY.md)
     - Use up to discretion of each user
     - While we have our own opinions and rules on the technology, we also value freedom of each user to make their own determination for their own work
     - We only require disclosure through tagging to allow effective filtering for other users
@@ -30,13 +30,13 @@ The policy regarding generative AI is as follows:
         - Using proprietary code as an input for LLM-based helpers is prohibited.
         - Team members may use LLM-based helpers at their own discretion with the goal of understanding better a concept, error or something they are unfamiliar with, while remembering to research the information further, and to not be completely reliant on it. Researching concepts from multiple sources is strongly encouraged.
     - Creating or modifying any official assets, such as textures, audio, video, 3D models, worlds or objects using generative AI is prohibited
-- Code contributions to our public repositories by staff or 3rd party community contributors must follow public contributor policy
+- Code contributions to our public repositories by staff or 3rd party community contributors must follow [public contributor policy](LLM-USAGE.md)
 - Generative AI features **will not** be implemented in Resonite in any official capacity with narrow exceptions (see #Exceptions section below)
 - User data will **never** be used to train models in an official capacity or sold to 3rd parties to train on
 - Individual users and business customers **may** use and implement generative AI if they wish to do so, though such uses **will not** be officially endorsed.
-    - Any content published on Resonite platform must follow the User AI disclosure policy
+    - Any content published on Resonite platform must follow the [User AI disclosure policy](USER_CONTENT_AI_POLICY.md)
     - Personal use by team members is also allowed under this as long as it's published on their personal accounts and could not be confused for official use
-- Users wishing to train AI models using Resonite must obtain direct and explicit consent for each user in the potential training data.
+- Users wishing to train AI models using Resonite must obtain direct and explicit consent from each user in the potential training data.
     - Training models using Resonite-specific data such as metrics, API responses and such is prohibited.
 
 We encourage users to report violations of this policy via our [moderation portal](https://moderation.resonite.com).
