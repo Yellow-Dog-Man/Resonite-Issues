@@ -40,7 +40,7 @@ Note that this is not a replacement for bug reports! To fix specific bugs we wil
 - **Provide a clean [log file](https://wiki.resonite.com/Log_Files)** from replicating the issue
   - Except for [Diagnostic ones](#using-diagnostic-modsplugins), **Do not** use mods or plugins.
   - Launch the client, Load the replication item/world, Replicate the issue, Exit
-  - If it's not possible to cleanly replicate the issue or it only occured once, you can provide whatever log you have (however still without mods!) - however note that this makes fixing the issue harder, so finding clean replication case can improve item's priority
+  - If it's not possible to cleanly replicate the issue or it only occurred once, you can provide whatever log you have (however still without mods!) - however note that this makes fixing the issue harder, so finding clean replication case can improve item's priority
   - For replication items, please provide the full item - the more steps it requires to assemble/replicate, the less priority we'll give the issue
 - **Use objective, and respectful language** for anything submitted.
   - Follow our [Code of Conduct](CODE_OF_CONDUCT.md) 
@@ -80,9 +80,9 @@ If you want to create and use such a mod/plugin for a report, please ensure the 
 - Providing the source of the mod can be helpful as well to provide more context, even when we don't run it
 
 # Why do we always need logs?
-For bug reports, we always request log files to be included with the initial report. If the logs are not included, the issue will automatically labeled as Needing More Information, meaning we'll pay a lot less attention to it than issues that have everything in order. We **strongly** recommend making sure you have everything together when posting the issue to maximize likelyhood of it being prioritized.
+For bug reports, we always request log files to be included with the initial report. If the logs are not included, the issue will automatically labeled as Needing More Information, meaning we'll pay a lot less attention to it than issues that have everything in order. We **strongly** recommend making sure you have everything together when posting the issue to maximize likelihood of it being prioritized.
 
-It is important to include logs, even if you feel they are unecessary. There is a number of reasons for this:
+It is important to include logs, even if you feel they are unnecessary. There is a number of reasons for this:
 - In most cases when people assume they are not necessary, they actually are.
    - Logs aren't just for errors, they contain a number of other diagnostic information that we might be looking for, that you're not aware of
    - E.g. we can determine sequence of certain events during reproduction
@@ -98,9 +98,9 @@ It is important to include logs, even if you feel they are unecessary. There is 
  
 ## What if I **REALLY** feel there's issues that don't need logs?
 If even given above information you feel there's types of issues that do not require logs (or can't have any), we recommend following:
-- If you're reporting undesirable behavior that isn't exactly bug, you can open a "Friction Point" issue
-- For problems with external systems, create "External service" issue
-- If you feel there's no category for the issue type you want to make, create "Friction Point" issue about this and we can add additional issue templates
+- If you're reporting undesirable behavior that isn't exactly a bug, you can open a "Friction Point" issue
+- For problems with external systems, create an "External service" issue
+- If you feel there's no category for the issue type you want to make, create a "Friction Point" issue about it and we can add additional issue templates
    - E.g. "locale/typo" issue template
    - This will keep these focused on particular problems that do not involve logs
 
