@@ -1,5 +1,5 @@
 # Generative AI disclosure policy
-Any publicly listed content on any official Resonite channels produced with clear use of generative AI tools must be clearly labeled by adding the `AI_GeneratedContent` component in the hierarchy and saved with the content.
+Any publicly listed content on any official Resonite channels produced with clear use of generative AI functionality must be clearly labeled by adding the `AI_GeneratedContent` component in the hierarchy and saved with the content.
 
 We do not require more than one part of the hierarchy to be tagged for published content. More granular tagging is recommended for better filtering, but not required.
 
