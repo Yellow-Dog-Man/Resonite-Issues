@@ -6,9 +6,13 @@ We do not require more than one part of the hierarchy to be tagged for published
 ## Why is this required?
 Resonite is a diverse platform with differing cultures, opinions and values. We want those to be able to coexist, regardless of our differences and personal opinions. We as a platform also value freedom of exploration, self determination and giving each user ability to curate their own Resonite experience.
 
-Large group of our community as well as the outside world has a strong negative stance towards generative AI, due to variety of moral, ethical, safety, economical and other concerns.
+There is significant amount of interest, both within the Resonite community and outside, to have a choice in how one engages with generative AI technology and its outputs, based on variety of moral, ethical, safety, economical and other concerns. We believe it is important to provide the tools to curate user's experience.
 
-This tagging policy was devised to give users a choice on whether to engage with content produced using this technology, without restricting other users from using this technology, preserving freedoms of both sides.
+At the same time we consider it important to not impose what technology and tools our users are allowed to use and experiment with as long as they remain legal.
+
+This tagging policy was devised to preserve the freedoms on boths sides.
+
+It also follows suit in responsible disclosure policies in a number of other platforms with user published content, as well as new [regulations on AI transparency](https://artificialintelligenceact.eu/transparency-rules-article-50/).
 
 ## When do I need to tag my content?
 1) When you have used a generative AI functionality directly to produce the content yourself
