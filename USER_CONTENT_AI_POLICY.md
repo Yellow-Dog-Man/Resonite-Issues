@@ -10,9 +10,12 @@ There is significant amount of interest, both within the Resonite community and 
 
 At the same time we consider it important to not impose what technology and tools our users are allowed to use and experiment with as long as they remain legal.
 
-This tagging policy was devised to preserve the freedoms on boths sides.
+This tagging policy was devised to preserve the freedoms on both sides.
 
 It also follows suit in responsible disclosure policies in a number of other platforms with user published content, as well as new [regulations on AI transparency](https://artificialintelligenceact.eu/transparency-rules-article-50/).
+
+### Featuring tagged content
+Featuring any content is done at case by case basis at sole discrection of the team. Generally we look for content made with love and care from the creators. While not required to comply with the policy, accurate detailed tagging can help us understand how the content was made for these purposes.
 
 ## When do I need to tag my content?
 1) When you have used a generative AI functionality directly to produce the content yourself
@@ -115,7 +118,7 @@ We will not action any tickets where it is not clear that given content is produ
 We understand that this allows AI generated content to slip through and remain untagged. Unfortunately if we cannot make a clear determination of AI use, we cannot enforce the tagging. We are also risking putting creators who do not use generative AI into a position of having to defending their work as not being AI produced, which we want to avoid.
 
 ## Correcting AI tagging
-If we find a ticket contains credible evidence of AI use in an improperly labeled content, the user may receive a message from the Resonite account in the contacts, detailing instructions how to correct the tagging. This message will include the evidence provided in the ticket, but will not identify the reporter. The message will alert the user that they will have a grace period of 14 days to update their world before a general "catch all" tag is added automatically.
+If we find a ticket contains credible evidence of AI use in an improperly labeled content, the user may receive an email & message from the Resonite account in the contacts, detailing instructions how to correct the tagging. This message will include the evidence provided in the ticket, but will not identify the reporter. The message will alert the user that they will have a grace period of 14 days to update their world before a general "catch all" tag is added automatically.
 
 User can resolve the situation in following ways:
 1) Apply proper tagging based on the evidence and re-save
