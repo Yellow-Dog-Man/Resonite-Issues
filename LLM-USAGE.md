@@ -1,9 +1,9 @@
 # LLM Usage Policy
 This is a moderation policy for how LLMs are used in all `Yellow-Dog-Man` public repositories. This policy applies to both official Yellow Dog Man Studio s.r.o. contributors and staff members, as well as any 3rd party community contributors.
 
-The policy also applies to `Yellow-Dog-Man` private repositories with additional restrictions covered by internal team AI policy (TODO: Add link).
+The policy also applies to `Yellow-Dog-Man` private repositories with additional restrictions covered by [internal team AI policy](GENERATIVE-AI.md).
 
-This policy does **NOT** apply to any content published on the Resonite platform itself, which is covered by a separate policy (TODO: Add link).
+This policy does **NOT** apply to any content published on the Resonite platform itself, which is covered by a [separate policy](USER_CONTENT_AI_POLICY.md).
 
 For additional information about the policy itself, including exact scope, see [the appendix](#appendix).
 
@@ -144,7 +144,7 @@ All uses under "⚠️ Allowed with caveats" **must** disclose that an LLM was u
 
 This policy applies to all public repositories under the `Yellow-Dog-Man` organization (you can view full list here: https://github.com/Yellow-Dog-Man), both for official staff and any 3rd party contributors.
 
-Additionaly it applies to private `Yellow-Dog-Man` repositories with additional restrictions detailed in the internal team AI policy (TODO: Add link).
+Additionaly it applies to private `Yellow-Dog-Man` repositories with additional restrictions detailed in the [internal team AI policy](GENERATIVE-AI.md).
 
 The following are not in scope and are free to set their own policies:
 - Forks of any `Yellow-Dog-Man` repositories
@@ -156,9 +156,9 @@ The following are not in scope and are free to set their own policies:
     - Any changes coming from upstream sources are not (and can not be) covered by this policy
     - Direct contributions against our forks are covered by this policy
 - User content published on the Resonite platform
-    - This is covered by separate policy (TODO: Add link)
+    - This is covered by [separate policy](USER_CONTENT_AI_POLICY.md)
 - Official Resonite assets
-    - These are covered by internal team AI policy (TODO: Add link)
+    - These are covered by [internal team AI policy](GENERATIVE-AI.md)
 
 For example, the following do not fall under the policy:
 - Tracking issues for T-lang
