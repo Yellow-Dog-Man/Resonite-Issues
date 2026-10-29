@@ -1,5 +1,7 @@
 # Generative AI disclosure policy
-Any published content on the Resonite platform produced with clear use of generative AI tools must be clearly labeled by adding the `AI_GeneratedContent` component in the hierarchy and saved with the content. We do not require more than one part of the hierarchy to be tagged for published content. More granular tagging is recommended for better filtering, but not required.
+Any publicly listed content on any official Resonite channels produced with clear use of generative AI tools must be clearly labeled by adding the `AI_GeneratedContent` component in the hierarchy and saved with the content.
+
+We do not require more than one part of the hierarchy to be tagged for published content. More granular tagging is recommended for better filtering, but not required.
 
 ## Why is this required?
 Resonite is a diverse platform with differing cultures, opinions and values. We want those to be able to coexist, regardless of our differences and personal opinions. We as a platform also value freedom of exploration, self determination and giving each user ability to curate their own Resonite experience.
@@ -27,6 +29,30 @@ Examples include:
 In such situations you are free to publish the content without the labeling.
 
 However if it comes to light the content did use generative AI, we do expect you to correct the situation (see below for more).
+
+## What is publicly listed content on official Resonite channels?
+Any content that is submited to be listed on official Resonite channels & content feeds is covered by this policy. Publishing the same content through other channels does not require labeling. A channel/feed is considered to be official if it would be accessible and visible to any user with default account configuration.
+
+Examples include:
+- Worlds submitted to the "Worlds" tab of the default Resonite group
+- Future Workshop (will be expanded once workshop is introduced)
+- Public Folders submitted to be shared with the community in Resonite Essentials
+    - Take extra care when saving new items into these folders once they're shared
+- Items & Worlds submitted to Resonite team for promotion (e.g. on streams)
+
+### What is NOT publicly listed content?
+If you publish your content solely outside of the official channels, you do not need to follow the policy. However tagging is still encouraged, because if the content gets at any point published though the official channels, it will need to follow the policy.
+
+Examples include:
+- Exporting content as ResonitePackage and publishing externally
+- Public Folders shared with friends or own groups
+    - Resonite does not have official public folder listing & search functionality - finding a public folder requires explicit actions from users to save them into their inventory
+- Sending items to contacts via messages
+- Worlds submitted to other groups than the official Resonite group
+    - While not currently a commonly used functionality, it allows for creating your own feeds for submitted content
+    - Each group sets its own rules for its feed
+- Private use
+    - If you never publish the content with wider community and only use it yourself or with your friends, no labeling is necessary
 
 ## What type of content does need to be labeled?
 Any content that features any assets or data produced or modified with the use of generative AI functionality need to be labeled. This includes:
