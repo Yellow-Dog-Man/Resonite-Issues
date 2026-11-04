@@ -81,7 +81,7 @@ Any content that features any assets or data produced or modified with the use o
 
 In short, if generative AI functionality has been used to inspire, modify or completely create any aspects of the published content and you are aware of it, we require the content to be tagged.
 
-Using a pre-existing tools that have been made or modified with generative AI is **NOT** considered use of generative AI as long as you don't use any generative AI functionality.
+Using pre-existing tools that have been made or modified with generative AI is **NOT** considered use of generative AI as long as you don't use any generative AI functionality.
 
 We strongly encourage to use granular tagging based on your use, as it will allow for more fine-grained filtering for other users and better communicate the use. However a simple presence of `AI_GeneratedContent` is sufficient to comply with this policy.
 
@@ -101,7 +101,7 @@ If you come across content that is improperly tagged, please send a ticket to mo
 
 **DO NOT** contact or harass the user directly.
 
-Your ticket must contain clear evidence showing that the contact is AI generated. The burden of proof is on the reporter, moderation will not investigate AI use. Tickets that are incomplete or contain on actionable evidence will be closed without a response.
+Your ticket must contain clear evidence showing that the contact is AI generated. The burden of proof is on the reporter, moderation will not investigate AI use. Tickets that are incomplete or contain no actionable evidence will be closed without a response.
 
 ## What is clear evidence?
 Examples of clear evidence include:
@@ -129,7 +129,7 @@ Resolving the situation automatically cancels 14 day period for automated taggin
 
 The "catch all" tag is not granular (meaning it will be filtered when any AI aspects are filtered). The tag will also be preserved when the content is re-saved without any `AI_GeneratedContent` components present and must be removed manually from the tag list.
 
-In a case of 14 day period passing with no action from the user, the user is free to free to manually remove the "catch all" AI tag provided they correct the tagging. This de-listing does NOT put any negative marks or restrictions on the account.
+In a case of 14 day period passing with no action from the user, the user is free to manually remove the "catch all" AI tag provided they correct the tagging. This de-listing does NOT put any negative marks or restrictions on the account.
 
 ## Grandfathered content
 Any published content that was last updated before this policy took place does not require to be tagged to comply. Any changes and additions to this content are covered by this policy and must be tagged appropriately. 
@@ -151,7 +151,7 @@ Examples:
 If we believe a user is engaging with the tagging system in a bad faith, such as:
 - Re-saving the world without correcting the tagging to cancel 14 day grace period
 - Removing the "catch all" AI tag manually without correcting the tagging
-- Removing the tags at later point without removing the affected content
+- Removing the tags at a later point without removing the affected content
 - Repeatedly marking content with "Human made tag" despite evidence of use of generative AI functionality 
 - Generally making no effort to use the system in a good faith, e.g. by repeatedly publishing large amounts of clearly mistagged content
 
