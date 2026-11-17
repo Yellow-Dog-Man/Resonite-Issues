@@ -140,7 +140,7 @@ Resolving the situation automatically cancels 14 day period for automated taggin
 
 The "catch all" tag is not granular (meaning it will be filtered when any AI aspects are filtered). The tag will also be preserved when the content is re-saved without any `AI_GeneratedContent` components present and must be removed manually from the tag list.
 
-In a case of 14 day period passing with no action from the user, the user is free to manually remove the "catch all" AI tag provided they correct the tagging. This de-listing does NOT put any negative marks or restrictions on the account.
+In a case of 14 day period passing with no action from the user, the user is free to manually remove the "catch all" AI tag provided they correct the tagging. This automated tagging does NOT put any negative marks or restrictions on the account.
 
 ## Grandfathered content
 Any published content that was last updated before this policy took place does not require to be tagged to comply. Any changes and additions to this content are covered by this policy and must be tagged appropriately. 
