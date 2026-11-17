@@ -49,19 +49,19 @@ We encourage users to report violations of this policy via our [moderation porta
 Resonite is a very complex platform which depends on many software libraries. Some of them use **fully local** machine learning models to provide some essential features:
 
 ## Machine Learning
-- RNNoise
+- [RNNoise](https://github.com/xiph/rnnoise)
      - **Use:** Noise removal from a user’s speech.
      - Licensing: Code under BSD Clause 3; training data provided by OpenSLR under Creative Commons ShareAlike 4.0.
      - **Rationale:** Significantly improves quality of user voice. Industry standard & open source
-- OVRLipSync
+- [OVRLipSync](https://developers.meta.com/vr/documentation/unity/audio-ovrlipsync-unity/)
      - **Use:** Solely on Windows, used to derive blendshape data from a user’s speech.
      - Licensing: Code under proprietary license; training data of an unknown origin.
      - **Rationale:** Industry standard for social VR applications with voice, with no full replacements
-- OpenLipSync
+- [OpenLipSync](https://github.com/KyuubiYoru/OpenLipSync)
     - **Use:** Primarily on Linux, used to derive blendshape data from a user’s speech.
     - Licensing: Code under Apache 2.0; training data provided by OpenSLR under Creative Common ShareAlike 4.0.
     - **Rationale:** Open-source alternative to OVRLipSync that is cross platform. Fidelity does not match OVRLipSync.
-- Opus
+- [Opus](https://opus-codec.org/)
     - **Use:** Audio codec used for transmit user’s speech & audio streaming. Although machine learning features are disabled at the moment, they usually help dealing with packet loss and low-bitrate audio.
     - Licensing: Code under the Opus license.
     - **Rationale:** Industry standard open source codec
