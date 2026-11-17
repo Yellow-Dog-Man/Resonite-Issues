@@ -62,7 +62,7 @@ Resonite is a very complex platform which depends on many software libraries. So
     - Licensing: Code under Apache 2.0; training data provided by OpenSLR under Creative Common ShareAlike 4.0.
     - **Rationale:** Open-source alternative to OVRLipSync that is cross platform. Fidelity does not match OVRLipSync.
 - [Opus](https://opus-codec.org/)
-    - **Use:** Audio codec used for transmit user’s speech & audio streaming. Although machine learning features are disabled at the moment, they usually help dealing with packet loss and low-bitrate audio.
+    - **Use:** Audio codec used for transmitting user’s speech & audio streaming. Although machine learning features are disabled at the moment, they usually help dealing with packet loss and low-bitrate audio.
     - Licensing: Code under the Opus license.
     - **Rationale:** Industry standard open source codec
 
@@ -73,7 +73,7 @@ Internal machine learning uses also include code suggestions (through intellicod
 We encourage users to notify us of any other libraries currently in use that are not in this list. To do so, please create an issue.
 
 ## Exceptions
-We make narrow exceptions for allowing generative AI (or adjacent) technologies official integrated into Resonite. In general exceptions are made when:
+We make narrow exceptions for allowing generative AI (or adjacent) technologies officialy integrated into Resonite. In general exceptions are made when:
 - It serves a significant public good purpose, such as improving core accessibility
 - Has zero or very low risk of causing harm by our use
 - Is not used to replace a position held by a human
