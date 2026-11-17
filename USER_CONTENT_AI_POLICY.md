@@ -88,9 +88,9 @@ Any content that features any assets or data produced or modified with the use o
 - Generating content directly
 - Modifying existing non-AI content with generative AI functionality
 - Generating content which is then manipulated and modified manually
-- Generating sketches, ideas and other resources based on which the content is made
+- Generating sketches, concepts, blueprints and other resources which are directly incorporated into the content
 
-In short, if generative AI functionality has been used to inspire, modify or completely create any aspects of the published content and you are aware of it, we require the content to be tagged.
+In short, if generative AI functionality has been used to generate, modify, or provide assets, sketches, concepts, or other materials that were directly incorporated into or used as a basis for any aspect of the published content, and you are aware of it, we require the content to be tagged.
 
 Using pre-existing tools that have been made or modified with generative AI is **NOT** considered use of generative AI as long as you don't use any generative AI functionality.
 
