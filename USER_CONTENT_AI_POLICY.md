@@ -145,7 +145,11 @@ The "catch all" tag is not granular (meaning it will be filtered when any AI asp
 In a case of 14 day period passing with no action from the user, the user is free to manually remove the "catch all" AI tag provided they correct the tagging. This automated tagging does NOT put any negative marks or restrictions on the account.
 
 ## Grandfathered content
-Any published content that was last updated before this policy took place does not require to be tagged to comply. Any changes and additions to this content are covered by this policy and must be tagged appropriately. 
+Any published content that was last updated before this policy took place does not require to be tagged to comply and we will not accept moderation reports for it.
+
+Any **new** changes and additions to this content are covered by this policy and must be tagged appropriately - tagging only changed parts is sufficient, we do not require doing research on the old parts.
+
+However updating grandfathered content makes it subject to moderation tickets - if usage is reported, we'll ask for tagging to be corrected.
 
 Examples:
 - You never update your grandfathered content:
