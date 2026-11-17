@@ -160,15 +160,6 @@ The following are not in scope and are free to set their own policies:
 - Official Resonite assets
     - These are covered by [internal team AI policy](GENERATIVE-AI.md)
 
-For example, the following do not fall under the policy:
-- Tracking issues for T-lang
-- T-lang proposals
-- T-lang stabilization reports
-- Language documentation
-- The style guide
-- Names of compiler lints. This only applies to the names themselves; the diagnostic messages are still covered under this policy.
-- Direct quotes from any of the above in documentation or diagnostics.
-
 ### Motivation and guiding principles
 
 There is not a consensus within the Resonite community—and likely never will be—about when/how/where it is acceptable to use AI-based tools.
