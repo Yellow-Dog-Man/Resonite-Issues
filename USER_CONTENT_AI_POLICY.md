@@ -3,6 +3,17 @@ Any publicly listed content on any official Resonite channels produced with clea
 
 We do not require more than one part of the hierarchy to be tagged for published content. More granular tagging is recommended for better filtering, but not required.
 
+## TL;DR
+The gist of this policy is relatively simple:
+
+If you know that generative AI was intentionally used to produce the content you're sharing in Resonite - please tag it with `AI_GeneratedContent`. Single default instance of this component anywhere in the hierarchy is sufficient to comply with the policy.
+
+If you want to allow for more fine grained filtering, fill out the usage detail as well and ensure it's correct, but that's fully optional.
+
+We don't expect you to play detective while building your content - if it's not clear whether you or someone else used generative AI for the content, you don't need to spend time researching it.
+
+However if someone else does the research and makes a ticket - please correct the tagging: either remove the content or add appropriate tags.
+
 ## Why is this required?
 Resonite is a diverse platform with differing cultures, opinions and values. We want those to be able to coexist, regardless of our differences and personal opinions. We as a platform also value freedom of exploration, self determination and giving each user ability to curate their own Resonite experience.
 
