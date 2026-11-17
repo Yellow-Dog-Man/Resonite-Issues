@@ -103,9 +103,11 @@ Content creators who can guarantee that their content has been produced or sourc
 
 This tagging is optional, but subject to the same policy. It can be applied if and only if all following conditions apply:
 - The content would not be required to have AI tag based on any rules above
-- The AI status of any of the content is NOT unknown - in other words, the user needs to be sure it was NOT made with AI
+- The AI status of any of the content is NOT unknown - in other words, the user needs to be reasonably sure it was NOT made with AI
 
 This tag presents much stronger determination of the status and the user is expected to perform more extensive research into the tools and/or 3rd party sources to ensure the fully human made status.
+
+If any generative AI use that would need labeling is found at later point (either by the user or via moderation ticket), the content must be corrected.
 
 # What if I find published content that's improperly tagged?
 If you come across content that is improperly tagged, please send a ticket to moderation.resonite.com.
