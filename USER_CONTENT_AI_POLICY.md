@@ -1,4 +1,4 @@
-# Generative AI disclosure policy
+# Generative AI disclosure policy for user content
 Any publicly listed content on any official Resonite channels produced with clear use of generative AI functionality must be clearly labeled by adding the `AI_GeneratedContent` component in the hierarchy and saved with the content.
 
 We do not require more than one part of the hierarchy to be tagged for published content. More granular tagging is recommended for better filtering, but not required.
@@ -157,6 +157,15 @@ Examples:
      - Tagging is required for the additions/changes as per this policy
      - You are **NOT** required to audit the existing unchanged content for AI usage
      - However we WILL accept ticket reports of mistagged content, even of existing parts
+
+## Detailed tagging
+The `AI_GeneratedContent` provides a number of options to provide mode detail about how generative AI functionality was used to produce content.
+
+Filling out detailed tagging **IS NOT REQUIRED** to comply with this policy: It is fully optional.
+
+However it is encouraged, as it will provide more fine grained filtering options for users. In other words, adding more detailed tagging will make your content show through more user's filters. When used, the policy does require detailed tagging to be sufficiently accurate.
+
+[Learn more about detailed tagging options](DETAILED_USER_CONTENT_AI_TAGGING.md)
 
 ## Bad faith actors
 If we believe a user is engaging with the tagging system in a bad faith, such as:
