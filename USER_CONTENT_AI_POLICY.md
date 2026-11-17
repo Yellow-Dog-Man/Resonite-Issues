@@ -26,7 +26,7 @@ This tagging policy was devised to preserve the freedoms on both sides.
 It also follows suit in responsible disclosure policies in a number of other platforms with user published content, as well as new [regulations on AI transparency](https://artificialintelligenceact.eu/transparency-rules-article-50/).
 
 ### Featuring tagged content
-Featuring any content is done at case by case basis at sole discrection of the team. Generally we look for content made with love and care from the creators. While not required to comply with the policy, accurate detailed tagging can help us understand how the content was made for these purposes.
+Featuring any content is done at case by case basis at sole discrection of the team. Generally we look for content made with love and care from the creators. AI tag is not an automatic disqualification for featuring, we will consider how the content was made overall. While not required to comply with the policy, accurate detailed tagging can help us evaluate this properly and is strongly encouraged.
 
 ## When do I need to tag my content?
 1) When you have used a generative AI functionality directly to produce the content yourself
