@@ -76,7 +76,7 @@ We encourage users to notify us of any other libraries currently in use that are
 We make narrow exceptions for allowing generative AI (or adjacent) technologies official integrated into Resonite. In general exceptions are made when:
 - It serves a significant public good purpose, such as improving core accessibility
 - Has zero or very low risk of causing harm by our use
-- Is not replacing a task handled by humans
+- Is not used to replace a position held by a human
 - It is not replacing a creative or decision making task
 - Solution can be self-hosted and is ideally a fully optional install by the user
 
