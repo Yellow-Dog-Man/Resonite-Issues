@@ -3,7 +3,7 @@ This document describes the current AI policies in place at Yellow Dog Man Studi
 
 ## Quick overview
 
-Yellow Dog Man Studios strongly values human work and building the platform for the long term, rather than taking shortcuts. At the same time we understand the technology is complex and multi-faceted and not everyone in the community shares the same ideals as we do. 
+Yellow Dog Man Studios strongly values human work, creativity and building the platform for the long term and we are cautious about the impact of AI on both the project itself and the rest of the world. At the same time we understand the technology is complex and multi-faceted and not everyone in the community shares the same ideals, perspectives and concerns as we do.
 
 To reflect this, we separate our policies by who they apply to.
 
