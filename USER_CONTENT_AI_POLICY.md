@@ -12,14 +12,14 @@ If you want to allow for more fine grained filtering, fill out the usage detail 
 
 We don't expect you to play detective while building your content - if it's not clear whether you or someone else used generative AI for the content, you don't need to spend time researching it.
 
-However if someone else does the research and makes a ticket - please correct the tagging: either remove the content or add appropriate tags.
+However if someone else does the research and makes a ticket - please correct the tagging: either remove the content or add appropriate tags. If you do not within 14 days, **your content will remain published and accessible**, but generic AI tag will be automatically applied to allow for optional filtering.
 
 ## Why is this required?
 Resonite is a diverse platform with differing cultures, opinions and values. We want those to be able to coexist, regardless of our differences and personal opinions. We as a platform also value freedom of exploration, self determination and giving each user ability to curate their own Resonite experience.
 
 There is significant amount of interest, both within the Resonite community and outside, to have a choice in how one engages with generative AI technology and its outputs, based on variety of moral, ethical, safety, economical and other concerns. We believe it is important to provide the tools to curate user's experience.
 
-At the same time we consider it important to not impose what technology and tools our users are allowed to use and experiment with as long as they remain legal.
+At the same time we consider it important to not impose what technology and tools our users are allowed to use and experiment with as long as they remain legal and to not impose any publishing or account restrictions on users for technology they use.
 
 This tagging policy was devised to preserve the freedoms on both sides.
 
@@ -109,10 +109,15 @@ This tag presents much stronger determination of the status and the user is expe
 
 If any generative AI use that would need labeling is found at later point (either by the user or via moderation ticket), the content must be corrected.
 
+# Harrassment
+Harrassment is not allowed on Resonite and is covered by the [user guidelines](https://policies.resonite.com/Guidelines). This includes targetted harrassment of users based on AI tagging of their published content (or lack of).
+
+If you do not wish to engage with AI generated content, use the provided filtering functionality.
+
 # What if I find published content that's improperly tagged?
 If you come across content that is improperly tagged, please send a ticket to moderation.resonite.com.
 
-**DO NOT** contact or harass the user directly.
+**DO NOT** contact or harass the user directly. Cases of harrasment and witch hunting will be dealt with appropriately according to our [user guidelines](https://policies.resonite.com/Guidelines).
 
 Your ticket must contain clear evidence showing that the contact is AI generated. The burden of proof is on the reporter, moderation will not investigate AI use. Tickets that are incomplete or contain no actionable evidence will be closed without a response.
 
@@ -142,7 +147,9 @@ Resolving the situation automatically cancels 14 day period for automated taggin
 
 The "catch all" tag is not granular (meaning it will be filtered when any AI aspects are filtered). The tag will also be preserved when the content is re-saved without any `AI_GeneratedContent` components present and must be removed manually from the tag list.
 
-In a case of 14 day period passing with no action from the user, the user is free to manually remove the "catch all" AI tag provided they correct the tagging. This automated tagging does NOT put any negative marks or restrictions on the account.
+In a case of 14 day period passing with no action from the user, the user is free to manually remove the "catch all" AI tag provided they correct the tagging.
+
+**This automated tagging does NOT put any negative marks or restrictions on the account.**
 
 ## Grandfathered content
 Any published content that was last updated before this policy took place does not require to be tagged to comply and we will not accept moderation reports for it.
@@ -175,10 +182,14 @@ However it is encouraged, as it will provide more fine grained filtering options
 
 ## Bad faith actors
 If we believe a user is engaging with the tagging system in a bad faith, such as:
-- Re-saving the world without correcting the tagging to cancel 14 day grace period
+- Repeatedly re-saving the world without correcting the tagging to cancel 14 day grace period
 - Removing the "catch all" AI tag manually without correcting the tagging
 - Removing the tags at a later point without removing the affected content
 - Repeatedly marking content with "Human made tag" despite evidence of use of generative AI functionality 
 - Generally making no effort to use the system in a good faith, e.g. by repeatedly publishing large amounts of clearly mistagged content
 
-We may send the user a warning, detailing this behavior. If user continues this behavior despite the warning, we may temporarily restrict ability to publish content in public world list (and upcoming Workshop) for 30 days, escalating with further incidents. Appeals can be made at moderation.resonite.com
+We may send the user a warning, detailing this behavior.
+
+If user continues this behavior despite the warning, we may temporarily restrict ability to publish content in public world list (and upcoming Workshop) for 30 days, escalating with further incidents.
+
+Appeals can be made at moderation.resonite.com

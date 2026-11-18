@@ -37,7 +37,7 @@ Generative AI is not in widespread use at Yellow Dog Man Studios.
 
 ### 3rd party use
 - Code contributions to our public repositories by staff or 3rd party community contributors must follow [public contributor policy](LLM-USAGE.md)
-- Individual users and business customers **may** use and implement generative AI if they wish to do so, though such uses **will not** be officially endorsed
+- Individual users and business customers **may** use and implement generative AI features if they wish to do so, though such uses **will not** be officially endorsed
     - Any content published on Resonite platform must follow the [User AI disclosure policy](USER_CONTENT_AI_POLICY.md)
     - Personal use by team members is also allowed under this as long as it's published on their personal accounts and could not be confused for official use
 - Users wishing to train AI models using Resonite must ensure they have permission for all training data
