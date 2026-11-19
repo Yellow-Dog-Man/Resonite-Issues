@@ -81,28 +81,3 @@ E.g. users with filter `ImageUsage`set to `Modifications`, will see content tagg
 In order to pass through the filter, all types of content must pass.
 
 E.g. users with filter `AudioUsage` set to `Generation` and `ImageUsage` set to `Modifications`, will **NOT** see content that has both `AudioUsage` and `ImageUsage` indicated as `Generation.
-
-### Tagging usage percentage per content type
-The last detailed option is to indicate the usage level for each content type. Similarly this is fully optional method and not necessary even when either of the other the methods are used.
-
-This is also likely the most labor intensive method, so we do not expect most users to use it, but we provide the option. We foresee a potential automated calculation in the future or incoporating this into 3rd party tooling.
-
-To provide exact percentage for content type, following criteria apply:
-- Detailed AI usage **MUST** be provided with proper usage level for each content type
-    - Percentage is only included for content type where the usage level is above `None`
-- `AI_GeneratedContent` component **MUST** be placed on the root of saved content
-    - This is because it's not possible to reasonably aggregate these values across multiple components
-    - For Worlds, this means it must be present at the Root slot
-- Set the `ApproximatePercentage` slider for given content type on `AI_GeneratedContent` to desired value
-    - Value of `null` indicates that information is not provided - you can remove the information by setting value back to null
-
-#### Calculating usage percentage
-To calculate exact usage percentage, count number of individual assets (textures, audio/video files) or other elements (characters, nodes) made with use of generative AI and divide by the total number of the assets of same type in the tagged content.
-
-E.g. if your content includes 10 textures and 1 of them was made with generative AI, usage % will be 10 %.
-
-You are allowed to approximate - but we recommend erring on the safe side of indicating slightly higher usage.
-
-E.g. if you estimate less than half of content is made with generative AI, indicate 50 %.
-
-We consider this value to be generally self-reported, so small inaccuracies will be tolerated. However content indicating significantly smaller use (e.g. 10 % use when 50 % content is AI generated) will require correction.
