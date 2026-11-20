@@ -117,9 +117,18 @@ If you do not wish to engage with AI generated content, use the provided filteri
 # What if I find published content that's improperly tagged?
 If you come across content that is improperly tagged, please send a ticket to moderation.resonite.com.
 
+Improperly tagged content can be:
+- Content with use of generative AI missing any AI tags
+- Content labeled as "Human made" which uses generative AI
+- Content with fine grained AI tagging, where tagging doesn't fully cover all uses
+    - E.g. worlds labeled with "AI for translations only" which contain generated image assets
+    - Refer to [Granular tagging options](GRANULAR_USER_CONTENT_AI_TAGGING.md) for more details
+
 **DO NOT** contact or harass the user directly. Cases of harrasment and witch hunting will be dealt with appropriately according to our [user guidelines](https://policies.resonite.com/Guidelines).
 
 Your ticket must contain clear evidence showing that the contact is AI generated. The burden of proof is on the reporter, moderation will not investigate AI use. Tickets that are incomplete or contain no actionable evidence will be closed without a response.
+
+If you are reporting granularly tagged content, please provide exact information of what parts of the content are improperly tagged and what they should be tagged together with evidence for why.
 
 ## What is clear evidence?
 Examples of clear evidence include:
@@ -171,14 +180,16 @@ Examples:
      - You are **NOT** required to audit the existing unchanged content for AI usage
      - However we WILL accept ticket reports of mistagged content, even of existing parts
 
-## Detailed tagging
+## Granular tagging
 The `AI_GeneratedContent` provides a number of options to provide mode detail about how generative AI functionality was used to produce content.
 
-Filling out detailed tagging **IS NOT REQUIRED** to comply with this policy: It is fully optional.
+Filling out granular tagging **IS NOT REQUIRED** to comply with this policy: It is fully optional.
 
-However it is encouraged, as it will provide more fine grained filtering options for users. In other words, adding more detailed tagging will make your content show through more user's filters. When used, the policy does require detailed tagging to be sufficiently accurate.
+However it is encouraged, as it will provide more fine grained filtering options for users. In other words, adding more detailed tagging will make your content show through more user's filters.
 
-[Learn more about detailed tagging options](DETAILED_USER_CONTENT_AI_TAGGING.md)
+When used, the policy does require detailed tagging to be sufficiently accurate and cover all actual uses.
+
+[Learn more about granular tagging options](GRANULAR_USER_CONTENT_AI_TAGGING.md)
 
 ## Bad faith actors
 If we believe a user is engaging with the tagging system in a bad faith, such as:

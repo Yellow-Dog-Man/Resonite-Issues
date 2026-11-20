@@ -1,15 +1,15 @@
-# Detailed AI tagging of user generated content
+# Granular AI tagging of user generated content
 This is an accompanying document for the (Generative AI disclosure policy for user content)[USER_CONTENT_AI_POLICY.md], describing how to use the detailed tagging options of `AI_GeneratedContent` component.
 
-As stated in the policy, detailed tagging is **FULLY OPTIONAL** and not required to comply with the policy.
+As stated in the policy, detailed tagging is **FULLY OPTIONAL** and not required to comply with the policy. However when in use, must fully cover the actual usage.
 
 However providing detailed information has a number of benefits:
 - Content will be visible to more users
 - More content will be considered for featuring
 - Users will be able to better understand how the technology was actually used
 
-## What happens without detailed tagging?
-When any detailed tagging information is missing, user content filters will assume highest level of usage for given aspect of the content and filter it.
+## What happens without granular tagging?
+When any granular tagging information is missing, user content filters will assume highest level of usage for given aspect of the content and filter it.
 
 Default `AI_GeneratedContent` component applies generic AI tag, which will **always be filtered** when user has filtering enabled. 
 
