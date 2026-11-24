@@ -26,13 +26,20 @@ To allow this percentage to be calculated, following criteria must apply:
     - This excludes any Resonite-managed hierarchies that you don't have control over
 - There are no instances of `AI_GeneratedContent` with `TagScope` set to `Global` in the saved hierarchy
 
+**RECOMMENDATION:** In practice, whenever you make an item with use of generative AI, we recommend putting the tag on its root for simplicity.
+
 When saving content (items or worlds), Resonite will calculate number of slots under `AI_GeneratedContent` component and outside to compute the final ratio. Slots with no components present on them are ignored for this purpose.
 
-The goal of this filter is to understand how much content is roughly made with generative AI. E.g. a world made mostly without generative AI with only few objects will show that only small percentage of the hierarchy is tagged, removing ambiguity on the level of use.
+The goal of this filter is to understand roughly how much content is made with generative AI. E.g. a world made mostly without generative AI with only few objects will show that only small percentage of the hierarchy is tagged, removing ambiguity on the level of use. We understand that meaning of exact % will vary on the content itself, so we will leave it to each user to set their own limits based on the content they want to experience.
 
 When filtering content, this aspect takes highest precedence and will allow content through if it's below the percentage set by user, even if it would not pass other filters.
 
 Importantly, this filter also works even if **no other detailed information is provided**, making this the easiest way to provide fine grained filtering.
+
+#### Ensuring correct hierarchy tagging
+When your content uses scoped AI tag as described above, it's important that **no AI generated content exists outside of the tagged hierarchies**.
+
+If we receive a report of AI generated content outside of tagged hierarchy, we may ask you to correct the tagging.
 
 ### Detailed AI usage
 Next step in providing detailed information is to add details on the specific usage of generative AI. This is also fully optional, regardless of whether hierarchy percentage tagging was used or not.
@@ -41,7 +48,7 @@ During filtering, this information can let content through a filter, even if it 
 
 To provide detailed AI usage, do following:
 - On the `AI_GeneratedContent` add a new entry to `UsageDetails` list
-- (Optional) Fill out `ToolName` with the name of the tool / model used
+- (Optional) Fill out `ToolName` with the name of the tool(s) / model(s) used or other information you find relevant
 - (Optional) Fill out `Description` with verbal description on how the technology was used
 - Correctly indicate usage for the specific use:
      - `Translation` - check if generative AI was used for translation
